@@ -5,7 +5,7 @@
 |Player  |AKA           |Specialty                                                                  |
 |---     |---           |---                                                                        |
 |Erramus | Errandboy    | The Brains of the operation and the only on Nikkey will follow            |
-|[Nikkey](files/Character.md)  | Asshole      | Stealth, locks or traps he leads                                          |   
+|[Nikkey](Character.md)  | Asshole      | Stealth, locks or traps he leads                                          |   
 |Skylarc | Shiela       | She gets pissed easily                                                    |
 |Sebi    | Seabiscuit or Stinky | Strongest mage hand in the land                                   |
 |Erebus  | Busboy       | Burning things and lover of elf's                                         |
