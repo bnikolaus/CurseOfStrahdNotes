@@ -63,18 +63,26 @@ ___People of interest;___
 --------------------------------------------------------------------------------------
 - Nikkey still high, can't sleep and eventually sees a spectral image of a servant and trys to wake everyone up. 
 - Nilneak just wants to sleep even after everyone goes downstairs after hearing more noises downstairs
-- A few of us go Downstairs after 30 minutes of trying to figure out how darkvision works in Roll20 and we find a new party member a new Cleric Erasmus who actually probably likes elf's
-- After another 30 minutes  of trying to figure out whats going on, Nikkey daringly decides to open a door, which Seabiscuit decided was better to open using a mage hand but Nikkey disagreed.
+- A few of us go Downstairs after 30 minutes of trying to figure out how darkvision works in Roll20 
+and we find a new party member a new Cleric Erasmus who actually probably likes elf's unlike some people
+- After another 30 minutes  of trying to figure out whats going on, Nikkey daringly decides to open a door, 
+which Seabiscuit decided was better to open using a mage hand but Nikkey disagreed.
 - Unprovoked Nilneak Decided to start Vandalizing Rose and Thorns house with Eldritch Blasts and gets attack by glass eyed dog. Clearly not an animal lover.
-- On a Dare, Nikkey sprung a suit of Trap of Magical Armor, Skylarc wrestled with the Magical Armor and threw it off the Balcong, then Nikkey Jumped off a 30 story Balcony, which he rolled a crit to vanquish the armor and save the day 
-- Nikkey wore a Tiger Rug cloak and used it to creatively ensare a Broom with a crit, and immediatly after Erebus rolled a crit and smashed it to peices... Thats fucking Teamwork.
+- On a Dare, Nikkey sprung a suit of Trap of Magical Armor, Skylarc wrestled with the Magical Armor 
+and threw it off the Balcong, then Nikkey Jumped off a 30 story Balcony, which he rolled a crit to 
+vanquish the armor and save the day 
+- Nikkey wore a Tiger Rug cloak and used it to creatively ensare a Broom with a crit, and immediatly 
+after Erebus rolled a crit and smashed it to peices... Thats fucking Teamwork.
 - Strahds Letter - Nikkey examined Strahds letter and begain forging Documents from Strahds handwritting 
 ```
 To whomever reads this letter, 
 
-Please extend the finest hospitality Barovia has to offer to the companions who have this letter. Your lord expect you will treat them with the highest regard and equip them with whatever they so desire for which I will reimburse at twice the rate.
+Please extend the finest hospitality Barovia has to offer to the companions who 
+have this letter. Your lord expect you will treat them with the highest regard and 
+equip them with whatever they so desire for which I will reimburse at twice the rate.
 
-The penalty for not honoring my wishes and accomodating these traveler's will be dealt with extreme prudence.
+The penalty for not honoring my wishes and accomodating these traveler's will be 
+dealt with extreme prudence.
 
 Your dread lord and master,
 Strahd von Zarovich
