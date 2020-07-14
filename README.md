@@ -13,7 +13,8 @@
 
 ### NPC's encourtered by the party
 ___People who have given us quests;___ 
-- Dutchy of Daggerfor - Motivations unkown, Husbans is dead and she is scared, sent us to find some missing people.
+- Dutchy of Daggerfor - Motivations unkown, Husbans is dead and she is scared, sent us to find some 
+missing people.
 - Rose & Thorn - Rosavalda Durnst unkown what they want us to play with them
 
 ___The People we are looking for;___ 
@@ -25,7 +26,9 @@ ___The People we are looking for;___
 ___People of interest;___
 - Strahd            - Bad guy, a Messiah, Not here to lead, we are on his earth
 - Irena             - Bad guy,  Burgomasters Daughter
-- Kolyan Indirovich - Neutral guy, Daughter bitten by vampire, seeks to help to contain a vile creature who has become to powerful, seeks to contain this power within Barovia, perhaps has a reward for Dominique 
+- Kolyan Indirovich - Neutral guy, Daughter bitten by vampire, seeks to help to contain a vile 
+creature who has become to powerful, seeks to contain this power within Barovia, perhaps has a 
+reward for Dominique, I am Dominique 
 - Rose & Thorn      - Unknown - Rosavalda Durnst
 - Gustav Durst      - Tortured people in his dungeon, motivations unknown, perhaps immortality
 -  Durst Will Documents all Signed forged
@@ -51,26 +54,30 @@ ___People of interest;___
 
 #### Memorable Actions
 - Nikkey convinces the Dutchess to give us all 20 gold peices to find some missing people.
-- We all get enveloped by a thick unatural fog which we appear to be lost in until we find a gate with headless
-statues.
+- We all get enveloped by a thick unatural fog which we appear to be lost in until we find a 
+gate with headless statues.
 ![Gate](images/GatesofBarovia.jpg)
-- Errebus gets us all inspiration for putting to rest a man who was hanging in a tree, probably one of the dead 
-guys we have be looking for.
+- Errebus gets us all inspiration for putting to rest a man who was hanging in a tree, probably 
+one of the dead guys we have be looking for.
 - Nicky Climbs the dead tree and sees a light  which they follow to big scary house
-- Outside the light up house the Party agree's to take a look at the basement to ensure for a good nights rest.
-- Once inside everyone is given a feast, except Nikkey does drugs upstairs and cannot sleep due to paranoia.
+- Outside the light up house the Party agree's to take a look at the basement to ensure for a good 
+nights rest.
+- Once inside everyone is given a feast, except Nikkey does drugs upstairs and cannot sleep due to 
+paranoia.
 - After arguing over is the house safe, finally the decide to sleep.
 - They wake to chills and appear to be walled in the House by bricks.
 
 --------------------------------------------------------------------------------------
-- Nikkey still high, can't sleep and eventually sees a spectral image of a servant and trys to wake everyone up. 
+- Nikkey still high, can't sleep and eventually sees a spectral image of a servant and trys to wake 
+everyone up. 
 - Nilneak just wants to sleep even after everyone goes downstairs after hearing more noises downstairs
 - A few of us go Downstairs after 30 minutes of trying to figure out how darkvision works in Roll20 
 and we find a new party member a new Cleric Erasmus who actually probably likes elf's unlike some people
 - After another 30 minutes  of trying to figure out whats going on, Nikkey daringly decides to open a door, 
 which Seabiscuit decided was better to open using a mage hand but Nikkey disagreed.
-- Unprovoked Nilneak Decided to start Vandalizing Rose and Thorns house with Eldritch Blasts and gets attack by 
-glass eyed dog. Nilneak is clearly not an animal lover and like vandalizing other peoples homes with eldritch blasts.
+- Unprovoked Nilneak Decided to start Vandalizing Rose and Thorns house with Eldritch Blasts and gets 
+attack by glass eyed dog. Nilneak is clearly not an animal lover and like vandalizing other peoples 
+homes with eldritch blasts.
 - On a Dare, Nikkey sprung a suit of Trap of Magical Armor, Skylarc wrestled with the Magical Armor 
 and threw it off the Balcong, then Nikkey Jumped off a 30 story Balcony, which he rolled a crit to 
 vanquish the armor and save the day 
@@ -90,11 +97,13 @@ dealt with extreme prudence.
 Your dread lord and master,
 Strahd von Zarovich
 ```
-- Nikkey Examined - The Durst Deeds wants to take ownership of the properties, want's Rose and Thurns blessing to restore the house for the children
-- Found a hidden Room, in the Doll House which was a miniature copy of the house we are in
+- Nikkey Examined - The Durst Deeds wants to take ownership of the properties, want's Rose and Thorns 
+blessing to restore the house for the children
+- Found a hidden Room, in the Doll House which was a miniature copy of the house
 - Nikkey got really afraid after touching thorns Bear
 __________________________________________________________
 
+Next Steps, Goto Secret Room 
 
 
  
