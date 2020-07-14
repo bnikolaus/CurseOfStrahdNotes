@@ -2,14 +2,14 @@
 
 ### The Party Movement Order;
 
-|Player  |AKA           |Specialty                                                                  |
-|---     |---           |---                                                                        |
-|Erramus | Errandboy    | The Brains of the operation and the only one Nikkey will follow           |
-|[Nikkey](Character.md)  | The provactur      | Stealth, locks or traps he leads and the only reason your still not stuck in the fog                    |   
-|Skylarc | Shiela       | She gets pissed easily                                                    |
-|Sebi    | Seabiscuit or Stinky | Strongest mage hand in the land                                   |
-|Erebus  | Busboy       | Burning things and lover of elf's                                         |
-|Nilneak | NillyWilly   | Eldritch blast first, ask questions later                                 | 
+|Player  |AKA           |Specialty                                                                   |
+|---     |---           |---                                                                         |
+|Erramus | Errandboy    | The Brains of the operation because he is the only one who can open a door |
+|[Nikkey](Character.md)  | The provactur      | Stealth, locks or traps and action                   |   
+|Skylarc | Shiela       | She gets pissed easily                                                     |
+|Sebi    | Seabiscuit or Stinky | Strongest mage hand in the land                                    |
+|Erebus  | Busboy       | Burning things and lover of elf's                                          |
+|Nilneak | NillyWilly   | Eldritch blast first, ask questions later                                  | 
 
 ### NPC's encourtered by the party
 ___People who have given us quests;___ 
@@ -74,15 +74,17 @@ everyone up.
 - A few of us go Downstairs after 30 minutes of trying to figure out how darkvision works in Roll20 
 and we find a new party member a new Cleric Erasmus who actually probably likes elf's unlike some people
 - After another 30 minutes  of trying to figure out whats going on, Nikkey daringly decides to open a door, 
-which Seabiscuit decided was better to open using a mage hand but Nikkey disagreed.
-- Unprovoked Nilneak Decided to start Vandalizing Rose and Thorns house with Eldritch Blasts and gets 
-attack by glass eyed dog. Nilneak is clearly not an animal lover and like vandalizing other peoples 
-homes with eldritch blasts.
-- On a Dare, Nikkey sprung a suit of Trap of Magical Armor, Skylarc wrestled with the Magical Armor 
-and threw it off the Balcong, then Nikkey Jumped off a 30 story Balcony, which he rolled a crit to 
-vanquish the armor and save the day 
-- Nikkey wore a Tiger Rug cloak and used it to creatively ensare a Broom with a crit, and immediatly 
+which Seabiscuit decided was better to open using a mage hand but Nikkey slapped that mage hand away.
+- The food everyone ate, was actually old and rotting and people are now getting poisened
+- Unprovoked Nilneak just randomly decides to start vandalizing Rose and Thorns house with Eldritch Blasts
+and gets attacked by glass eyed dog. Nilneak is clearly not an animal lover and has never heard of arson.
+- After what seems like forever they go upstairs and nn a Dare, Nikkey sprung a suit of Trap of Magical Armor, 
+Skylarc wrestled with the Magical Armor and threw it off the Balcony, then Nikkey Jumped off a 30 story 
+Balcony, which he rolled a crit to vanquish the armor and save the day 
+- As they searched more rooms found a Tigersking Rug/cloak and used it to creatively ensare a Broom with a crit, and immediatly 
 after Erebus rolled a crit and smashed it to peices... Thats fucking Teamwork.
+- He also found a treasure chest full of some documents, magical scrolls, and procurred a poison dart from
+a trap. Poison was fatally strong enought kill someone.
 - Strahds Letter - Nikkey examined Strahds letter and begain forging Documents from Strahds handwritting 
 ```
 To whomever reads this letter, 
