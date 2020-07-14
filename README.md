@@ -13,8 +13,8 @@
 
 ### NPC's encourtered by the party
 ___People who have given us quests;___ 
-- Dutchy of Daggerfor - Motivations unkown, Husbans is dead and she is scared, sent us to find some 
-missing people.
+- Dutchy of Daggerfor - Motivations unkown, Husbans is dead and she is scared, sent us 
+to find somemissing people.
 - Rose & Thorn - Rosavalda Durnst unkown what they want us to play with them
 
 ___The People we are looking for;___ 
