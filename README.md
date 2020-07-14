@@ -12,15 +12,15 @@
 |Nilneak | NillyWilly   | Eldritch blast first, ask questions later                                 | 
 
 ### NPC's encourtered by the party
-___People who have quests;___ 
+___People who have given us quests;___ 
 - Dutchy of Daggerfor - Motivations unkown, Husbans is dead and she is scared, sent us to find some missing people.
 - Rose & Thorn - Rosavalda Durnst unkown what they want us to play with them
 
 ___The People we are looking for;___ 
 - Bella the Brave
 - Krystopf - Fighter
-- Joesline - Magic, 
-- Dominique - Rogue
+- Joesline - Magic User 
+- Dominique - Rogue - Likely Dead, Knikkey got his hand I think
 
 ___People of interest;___
 - Strahd            - Bad guy, a Messiah, Not here to lead, we are on his earth
