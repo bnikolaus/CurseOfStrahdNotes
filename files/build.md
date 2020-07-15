@@ -1,11 +1,40 @@
 [back](../Character.md)
 
- 
+# 
+### Level 1 Rogue
+- Sneak Attack
+### level 2 Warlock - 2 spells, 2 spells slots Otherwordly Patron, Pact Magic
+- Booming Blade
+- Minor Illusion
+- Hex
+- Charm Person
+### Level 3 Warlock - 3 Spells, 2 spells slots,  Eldritch Invocations
+- unseen servant
+- Devils Sight 
+- Mask of Many Faces
+### Level 4 Warlock - 4 Spells, 2nd level slots, Pact Boon 
+__4 Cantrips__
+- Friends
+- Green Flame Blade
+- Vicious Mockery *
+- Message * 
+- Guidance *
+__4 Spells__
+- Invisibility
+- Suggestion
+- Shadow Blade
+- Hellish Rebuke
+
+
+### Level 5 Rogue - Cunning Action
+
+
+
+- Level 6 Rogue - 
+
  # Rogue / Warlock Optimized 
 
-#### Eldritch Invocations
-- Devil's Sight
-- Book of Ancient Secrets
+
 
 ####  Spells with Pact Boon at level 3
 
