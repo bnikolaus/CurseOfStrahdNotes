@@ -106,6 +106,7 @@ blessing to restore the house for the children
 __________________________________________________________
 
 Next Steps, Goto Secret Room 
+Create A [shopping list](files/ShoppingList.md)
 
 
  
