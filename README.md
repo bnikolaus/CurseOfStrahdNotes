@@ -91,10 +91,11 @@ To whomever reads this letter,
 
 Please extend the finest hospitality Barovia has to offer to the companions who 
 have this letter. Your lord expect you will treat them with the highest regard and 
-equip them with whatever they so desire for which I will reimburse at twice the rate.
+equip them with whatever they so desire for which I will reimburse at four times the 
+rate. My business with these travellers is a private matter matter and your discretion
+is advised.
 
-The penalty for not honoring my wishes and accomodating these traveler's will be 
-dealt with extreme prudence.
+The penalty for not honoring your Lords wishes will have dire consequences.
 
 Your dread lord and master,
 Strahd von Zarovich
