@@ -25,48 +25,14 @@ __4 Spells__
 - Invisibility
 - Suggestion
 - Shadow Blade
-- Hellish Rebuke
+- Mirror Image
 
+### Level 5 Rogue
+- Cunning Action
 
-### Level 5 Rogue - Cunning Action
-
-
-
-- Level 6 Rogue - 
-
- # Rogue / Warlock Optimized 
-
-
-
-####  Spells with Pact Boon at level 3
-
-####  Warlock Spells
-__4 Cantrips__
-- Friends
-- Green Flame Blade
-- Vicious Mockery *
-- Message * 
-- Guidance * 
-
-__4 Spells__
-- Invisibility
-- Suggestion
-- Shadow Blade
-- Darkness
-
-```
-* Pact of Tome requirement
-```
-
-__2 Rituals__
-- Silence * 
-- Find Familiar * 
-
-```
-* requires  
-```
-
-#### Arcane Trickster Spells
+### Level 6 Rogue
+- Arcane Trickster
+2 level 1 Spell Slots
 __3 Cantrips__
 - mage hand
 - minor illusion
