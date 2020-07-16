@@ -1,5 +1,7 @@
 [back](../Character.md)
 
+[sorcerer](rogue-sorcerer.md)
+
 # 
 ### Level 1 Rogue
 - Sneak Attack
