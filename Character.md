@@ -104,6 +104,7 @@ Try
 - Clanger
 - wadyasay - say again
 - Whinger - 
+- Bail - 
 
 # Common 
 - Howzat = how is that 
@@ -117,6 +118,7 @@ Try
 # People
 - Not the sharpest knife in the drawer.
 - a stubbie short of a six pack = someone crazy
+- Don’t be a drongo mate
 
 # Things
 - woofa - dog
@@ -128,6 +130,7 @@ Try
 # Bad
 - Flamin' Hell
 - Up a gumtree
+- Iffy 
 
 
 
