@@ -41,7 +41,6 @@ Character Warm Up
 - Youz 
 - Howz
 - Wez
-- bugga
 - heaps and bloody a lot
 - wee bit
 - How ya goin?
@@ -84,6 +83,7 @@ Character Warm Up
 # Common 
 - nuttin - nothing
 - Hang on a tick - wait back
+- Ohh, bugga 
 
 # Actions
 - I got a handle on it 
