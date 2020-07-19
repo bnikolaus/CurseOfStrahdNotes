@@ -20,7 +20,8 @@ __Forgery Kit__
 __Sleight of Hand__ 
 - Pick Pocket, cast friends to Blame it on the other guy
 - Pick Pocket, Draft a document being summoned by a powerful lord
-- Pick Pocket + Disguise Self - Allow me to [Gucci le Prada](https://github.com/bnikolaus/CurseOfStrahdNotes/blob/master/images/guccileprada.png) the finest taylor and stylist the world has ever 
+- Pick Pocket + Disguise Self - Pardon, I am [Gucci le Prada](https://github.com/bnikolaus/CurseOfStrahdNotes/blob/master/images/guccileprada.png) the finest taylor and stylist the world has ever
+- Pick Pocket + Disguise Self + Prestidigitation - Tahne Tarot, falls to the gound and a seance trance, describing a horrible fate
 
 
 __Disguise Self__
