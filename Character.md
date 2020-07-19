@@ -61,8 +61,7 @@ Character Warm Up
 - Youra Dilda
 - I’ll givit ah jinga
 
-# Most Common
-- Howzat = how is that 
+# D&D Specific
 - theifin tools = 
 - swipe = steal
 - muvmen = movement
@@ -72,26 +71,29 @@ Character Warm Up
 - telli = intelligence 
 - whez it = where is it
 - Hit for six = sleep
-- Blimey
-- cheers mate
-- Pansy 
-- fair go - agree too something
-- masta = Masta
-- Rovia = Barovia
-- Stani = Vistani
 - putah spell = cast spell
 - Sqizing kit = Disguise Kit
 - forgin kit = Forgery kit
+
+# Curse of Strah
+- masta = Masta
+- Rovia = Barovia
+- Stani = Vistani
+
+
+# Common 
 - nuttin - nothing
-- Hang on a tick
-- I got a handle on it
+- Hang on a tick - wait back
+
+Try
+- I got a handle on it 
 - Have a crack
 - Have a squiz
+
 - Hooley dooley
 - Have a go, ya mug!
 - Are your ears painted on? = dont listen
 - A couple of sandwiches short of a picnic = someone crazy
-- a stubbie short of a six pack = someone crazy
 - Dry as a dead dingo - 
 - Cark it - to die
 - chuck a spewie - turn around
@@ -102,18 +104,30 @@ Character Warm Up
 - Clanger
 - wadyasay - say again
 - Whinger - 
-- woofa - dog
+
+# Common 
+- Howzat = how is that 
 - Deliver the goods
 - Keep on talking even if you've gotta make it up!
+- Blimey
+- cheers mate
+- Pansy 
+- fair go - agree too something
+
+# People
 - Not the sharpest knife in the drawer.
+- a stubbie short of a six pack = someone crazy
+
+# Things
+- woofa - dog
 
 # Good
-- best thing since sliced bread - good
+- best thing since sliced bread
 - Bonza
-- 
 
 # Bad
 - Flamin' Hell
+- Up a gumtree
 
 
 
