@@ -100,6 +100,7 @@ Character Warm Up
 - Ringer - Top guy
 - Clanger
 - wadyasay - say again
+- Whinger - 
 
 
 
