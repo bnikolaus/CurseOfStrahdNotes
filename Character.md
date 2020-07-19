@@ -26,7 +26,7 @@
 [mage](https://media0.giphy.com/media/29I6nrDAfZm195rmLH/giphy.gif?cid=ecf05e478136b4ba1363bfdde85a955664e38972accaf1bf&rid=giphy.gif)
 
 Vocabulary
-
+```
 dont open your mouth
 say everything really fast
 dont enunciate your R’s
@@ -78,7 +78,7 @@ Rovia = Barovia
 Stani = Vistani
 putah spell = cast spell
 
-
+```
 
 
 
