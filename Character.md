@@ -90,6 +90,8 @@ Character Warm Up
 - A couple of sandwiches short of a picnic = someone crazy
 - a stubbie short of a six pack = someone crazy
 - Dry as a dead dingo - 
+- Cark it - to die
+
 
 
 
