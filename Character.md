@@ -85,26 +85,25 @@ Character Warm Up
 - nuttin - nothing
 - Hang on a tick - wait back
 
-Try
+# Actions
 - I got a handle on it 
 - Have a crack
 - Have a squiz
-
-- Hooley dooley
-- Have a go, ya mug!
+- Shoot through = leave
+- Hooley dooley = surprized
+- Have a go, ya mug! = try 
 - Are your ears painted on? = dont listen
-- A couple of sandwiches short of a picnic = someone crazy
-- Dry as a dead dingo - 
+- Dry as a dead dingo - thirsty
 - Cark it - to die
 - chuck a spewie - turn around
 - Put a sock in it - shut up
 - Pulling Your Leg - 
-- Rat Bag
+- Rat Bag - 
 - Ringer - Top guy
-- Clanger
+- Clanger - 
 - wadyasay - say again
 - Whinger - 
-- Bail - 
+- Bail - leave
 
 # Common 
 - Howzat = how is that 
@@ -116,6 +115,7 @@ Try
 - fair go - agree too something
 
 # People
+- A couple of sandwiches short of a picnic = someone crazy
 - Not the sharpest knife in the drawer.
 - a stubbie short of a six pack = someone crazy
 - Don’t be a drongo mate
@@ -131,7 +131,6 @@ Try
 - Flamin' Hell
 - Up a gumtree
 - Iffy 
-
 - scared, you Packing darkies
 
 
