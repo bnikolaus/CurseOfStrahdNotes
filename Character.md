@@ -74,7 +74,7 @@ Character Warm Up
 - Sqizing kit = Disguise Kit
 - forgin kit = Forgery kit
 
-# Curse of Strah
+# Curse of Strahd
 - masta = Masta
 - Rovia = Barovia
 - Stani = Vistani
