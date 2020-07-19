@@ -63,7 +63,8 @@ Character Warm Up
 
 # Most Common
 - Howzat = how is that 
-- theifin tools 
+- theifin tools = 
+- swipe = steal
 - muvmen = movement
 - bony actin = bonus action
 - ception = deception
