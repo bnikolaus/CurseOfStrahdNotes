@@ -6,7 +6,7 @@
 |---     |---           |---                                                                         |
 |ERRAMUS | ERRANDBOY    | THE BRAINS OF THE OPERATION BECAUSE HE IS THE ONLY ONE WHO CAN OPEN A DOOR |
 |[NIKKEY](CHARACTER.MD)  | THE PROVACTUR      | STEALTH, LOCKS OR TRAPS AND ACTION                   |   
-|SKYLARC | SHIELA       | SHE GETS PISSED EASILY                                                     |
+|SKYLARC | THE SHIELA       | SHE GETS PISSED EASILY                                                     |
 |SEBI    | SEABISCUIT OR STINKY | STRONGEST MAGE HAND IN THE LAND                                    |
 |EREBUS  | BUSBOY       | BURNING THINGS AND LOVER OF ELF'S                                          |
 |NILNEAK | NILLYWILLY   | ELDRITCH BLAST FIRST, ASK QUESTIONS LATER                                  | 
