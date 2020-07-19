@@ -86,12 +86,12 @@ Character Warm Up
 - Ohh, bugga 
 
 # Actions
-- I got a handle on it 
-- Have a crack
-- Have a squiz
+- Have a go, ya mug! = try it
+- I got a handle on it - im good
+- Have a crack - take action
+- Have a squiz - take action
 - Shoot through = leave
 - Hooley dooley = surprized
-- Have a go, ya mug! = try 
 - Are your ears painted on? = dont listen
 - Dry as a dead dingo - thirsty
 - Cark it - to die
