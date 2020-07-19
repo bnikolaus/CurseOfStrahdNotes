@@ -123,6 +123,7 @@ Character Warm Up
 - Don’t be a drongo mate = asshole
 - that one is, Thick as a brick - not smart
 - Ankle Bitters, kids
+- Tight as a fishes bum - cheapskate uncooperate
 
 # Things
 - woofa - dog
