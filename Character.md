@@ -26,6 +26,8 @@
 [mage](https://media0.giphy.com/media/29I6nrDAfZm195rmLH/giphy.gif?cid=ecf05e478136b4ba1363bfdde85a955664e38972accaf1bf&rid=giphy.gif)
 
 # Vocabulary
+https://www.australiaday.com.au/get-involved/aussie-slang-dictionary/letter/h/
+
 - dont open your mouth
 - say everything really fast
 - dont enunciate your R’s
@@ -83,6 +85,7 @@ Character Warm Up
 - Have a crack
 - Have a squiz
 - Hooley dooley
+- Have a go, ya mug!
 
 
 
