@@ -73,6 +73,7 @@ Character Warm Up
 - Hit for six = sleep
 - Blimey
 - cheers mate
+- Pansy 
 - masta = Masta
 - Rovia = Barovia
 - Stani = Vistani
