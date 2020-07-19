@@ -103,6 +103,16 @@ Character Warm Up
 - wadyasay - say again
 - Whinger - 
 - woofa - dog
+- Deliver the goods
+
+# Good
+- best thing since sliced bread - good
+- Bonza
+- 
+
+# Bad
+- Flamin' Hell
+
 
 
 
