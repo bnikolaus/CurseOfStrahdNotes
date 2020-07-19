@@ -5,6 +5,7 @@
 __Friends__
 - Friends + Illusionary Script + Disguise Self - Buying items for my friends, please put it on my tab
 - Friends + Disguise Self - Gamble and not pay our losses or make loads
+- Friends to dare someone to take an action
 - Friends to calm somebody down that is already aggravated
 - Friends to lure enemies into traps
 - Friends to make someone not hostile and run away
