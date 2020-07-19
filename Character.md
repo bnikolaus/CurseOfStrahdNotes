@@ -91,6 +91,8 @@ Character Warm Up
 - a stubbie short of a six pack = someone crazy
 - Dry as a dead dingo - 
 - Cark it - to die
+- chuck a spewie - turn around
+
 
 
 
