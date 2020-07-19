@@ -12,7 +12,16 @@ __Friends__
 - Friends on Party members that won't cooperate
 - Friends on Interrigations
 - Friends cast on a guard to get past a door
- 
+
+__Forgery Kit__
+- Draft a summons letter for a powerful lord
+- 
+
+__Sleight of Hand__ 
+- Pick Pocket, cast friends to Blame it on the other guy
+- Pick Pocket, Draft a document being summoned by a powerful lord
+- Pick Pocket + Disguise Self - Allow me to Gucci le Prada the finest taylor and stylist the world has ever seen
+
 
 __Disguise Self__
 - Disguise yourself to Delivery a Forged Document / Letter
