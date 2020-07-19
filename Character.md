@@ -104,6 +104,7 @@ Character Warm Up
 - wadyasay - say again
 - Whinger - 
 - Bail - leave
+- You pansys ready to tee up - take action
 
 # Common 
 - Howzat = how is that 
