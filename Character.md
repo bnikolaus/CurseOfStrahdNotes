@@ -75,7 +75,10 @@ Character Warm Up
 - Sqizing kit = Disguise Kit
 - forgin kit = Forgery kit
 - nuttin - nothing
-
+- Hang on a tick
+- I got a handle on it
+- Have a crack
+- Have a squiz
 
 
 
