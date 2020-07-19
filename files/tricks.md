@@ -4,13 +4,14 @@
 
 __Friends__
 - Friends + Illusionary Script + Disguise Self - Buying items for my friends, please put it on my tab
-- Friends + Disguise Self - Disguised yourself a mark, make them a quck bet win and profit or not pay cause your good for it
+- Friends + Disguise Self - Gamble and not pay our losses or make loads
 - Friends to calm somebody down that is already aggravated
 - Friends to lure enemies into traps
 - Friends to make someone not hostile and run away
 - Friends on Party members that won't cooperate
 - Friends on Interrigations
 - Friends cast on a guard to get past a door
+ 
 
 __Disguise Self__
 - Disguise yourself to Delivery a Forged Document / Letter
