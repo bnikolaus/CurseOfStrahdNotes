@@ -104,6 +104,8 @@ Character Warm Up
 - Whinger - 
 - woofa - dog
 - Deliver the goods
+- Keep on talking even if you've gotta make it up!
+- 
 
 # Good
 - best thing since sliced bread - good
