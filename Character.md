@@ -122,6 +122,7 @@ Character Warm Up
 - a stubbie short of a six pack = someone crazy
 - Don’t be a drongo mate = asshole
 - that one is, Thick as a brick - not smart
+- Ankle Bitters, kids
 
 # Things
 - woofa - dog
