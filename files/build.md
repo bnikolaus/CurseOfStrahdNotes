@@ -7,7 +7,7 @@
 - Sneak Attack
 ### level 2 Warlock - 2 spells, 2 spells slots Otherwordly Patron, Pact Magic
 - Booming Blade
-- Minor Illusion
+- Friends
 - Hex
 - Charm Person
 ### Level 3 Warlock - 3 Spells, 2 spells slots,  Eldritch Invocations
