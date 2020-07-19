@@ -1,24 +1,24 @@
-[BACK](../CURSEOFSTRAHDNOTES.MD)
+[Back](../Curseofstrahdnotes.Md)
 
-# MAGIC
+# Magic
 -
 
-# WEAPONS
+# Weapons
 - 
 
-# ARMOR
-- 1X STUDDED LEATHER ARMOR
+# Armor
+- 1x Studded Leather Armor
 
-# POTIONS
-- 5X HEALING
-- 5X POISONS
-- 5X ANTITOXINS
-- 5X HOLY WATER
+# Potions
+- 5x Healing
+- 5x Poisons
+- 5x Antitoxins
+- 5x Holy Water
 
-# GEAR 
-- 5X MIRROR
-- 5X HOLY WATER
-- 1X DICE LOADED
-- 5X MANACLES
-- 1X CHEST
-- 1X LOCK
+# Gear 
+- 5x Mirror
+- 5x Holy Water
+- 1x Dice Loaded
+- 5x Manacles
+- 1x Chest
+- 1x Lock

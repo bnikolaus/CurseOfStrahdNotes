@@ -1,40 +1,40 @@
-[BACK](../CHARACTER.MD)
+[Back](../Character.Md)
 
-#### SPELL USES
+#### Spell Uses
 
-__FRIENDS__
-- FRIENDS + ILLUSIONARY SCRIPT + DISGUISE SELF - BUYING ITEMS FOR MY FRIENDS, PLEASE PUT IT ON MY TAB
-- FRIENDS + DISGUISE SELF - GAMBLE AND NOT PAY OUR LOSSES OR MAKE LOADS
-- FRIENDS TO DARE SOMEONE TO TAKE AN ACTION
-- FRIENDS TO CALM SOMEBODY DOWN THAT IS ALREADY AGGRAVATED
-- FRIENDS TO LURE ENEMIES INTO TRAPS
-- FRIENDS TO MAKE SOMEONE NOT HOSTILE AND RUN AWAY
-- FRIENDS ON PARTY MEMBERS THAT WON'T COOPERATE
-- FRIENDS ON INTERRIGATIONS
-- FRIENDS CAST ON A GUARD TO GET PAST A DOOR
+__friends__
+- Friends + Illusionary Script + Disguise Self - Buying Items For My Friends, Please Put It On My Tab
+- Friends + Disguise Self - Gamble And Not Pay Our Losses Or Make Loads
+- Friends To Dare Someone To Take An Action
+- Friends To Calm Somebody Down That Is Already Aggravated
+- Friends To Lure Enemies Into Traps
+- Friends To Make Someone Not Hostile And Run Away
+- Friends On Party Members That Won'T Cooperate
+- Friends On Interrigations
+- Friends Cast On A Guard To Get Past A Door
 
-__FORGERY KIT__
-- DRAFT A SUMMONS LETTER FOR A POWERFUL LORD
+__forgery Kit__
+- Draft A Summons Letter For A Powerful Lord
 - 
 
-__SLEIGHT OF HAND__ 
-- PICK POCKET, CAST FRIENDS TO BLAME IT ON THE OTHER GUY
-- PICK POCKET, DRAFT A DOCUMENT BEING SUMMONED BY A POWERFUL LORD
-- PICK POCKET + DISGUISE SELF - TAILOR SCHEME, I AM [GUCCI LE PRADA](../IMAGES/GUCCILEPRADA.PNG) THE FINEST TAYLOR AND STYLIST THE WORLD HAS EVER
-- PICK POCKET + DISGUISE SELF + PRESTIDIGITATION - DARK FORTUNES SCHEME, I AM [TAHNE TAROT](../IMAGES/TAHNETARROT.JPG) FALLS TO THE GOUND AND A SEANCE TRANCE, DESCRIBING A HORRIBLE FATE
+__sleight Of Hand__ 
+- Pick Pocket, Cast Friends To Blame It On The Other Guy
+- Pick Pocket, Draft A Document Being Summoned By A Powerful Lord
+- Pick Pocket + Disguise Self - Tailor Scheme, I Am [Gucci Le Prada](../Images/Guccileprada.Png) The Finest Taylor And Stylist The World Has Ever
+- Pick Pocket + Disguise Self + Prestidigitation - Dark Fortunes Scheme, I Am [Tahne Tarot](../Images/Tahnetarrot.Jpg) Falls To The Gound And A Seance Trance, Describing A Horrible Fate
 
 
-__DISGUISE SELF__
-- DISGUISE YOURSELF TO DELIVERY A FORGED DOCUMENT / LETTER
-- DISGUISE YO
+__disguise Self__
+- Disguise Yourself To Delivery A Forged Document / Letter
+- Disguise Yo
 
-__SUGGESTION LEVEL 2__
-- YOU ITEMS ARE NOT SECURE, PUT THEM IN THIS CHEST AND LOCK IT.
-- YOU FEEL LIKE GAMBLING YOU WANT TO BET EVERYTHING.
-- PUT YOUR ITEMS IN THIS CHEST & ARCANE LOCK
+__suggestion Level 2__
+- You Items Are Not Secure, Put Them In This Chest And Lock It.
+- You Feel Like Gambling You Want To Bet Everything.
+- Put Your Items In This Chest & Arcane Lock
   
-#### DECEPTIONS
+#### Deceptions
 -
 
-#### PERSUASSIONS
+#### Persuassions
 - 
