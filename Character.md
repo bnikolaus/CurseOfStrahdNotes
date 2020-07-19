@@ -66,6 +66,7 @@ Character Warm Up
 - ssuasion = persuassion
 - telli = intelligence 
 - whez it = where is it
+- Hit for six = sleep
 - Blimey
 - cheers mate
 - masta = Masta
@@ -79,6 +80,7 @@ Character Warm Up
 - I got a handle on it
 - Have a crack
 - Have a squiz
+- Hooley dooley
 
 
 
