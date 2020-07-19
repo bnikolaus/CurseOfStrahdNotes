@@ -25,6 +25,67 @@
 [strahd casts](https://media2.giphy.com/media/bx7jfGscJsm9a/giphy.gif?cid=ecf05e478438f2158765b9f0c6429bd3f082feccb962fafb&rid=giphy.gif)
 [mage](https://media0.giphy.com/media/29I6nrDAfZm195rmLH/giphy.gif?cid=ecf05e478136b4ba1363bfdde85a955664e38972accaf1bf&rid=giphy.gif)
 
+Vocabulary
+
+dont open your mouth
+say everything really fast
+dont enunciate your R’s
+
+Words
+A strayan like meh mate right there tullied a bloque in a fight and with a few 
+Character Warm Up
+
+Try saying the words: Australian (Strayan), like, might, right, fight, dire, mate, date, no, hat, water bottle, catching, running, and together.
+
+oi
+Youz 
+Howz
+Wez
+bugga
+heaps and bloody a lot
+wee bit
+How ya goin?
+theht - that
+good on ya
+give it a go
+lika - like
+mates, sheilas, bloques
+good eye mate say fast
+mite maybe 
+cheeky
+flat out like lizard drinking
+ruse - 
+toohey’s - beers
+add hey to the end of sentences
+I think I can see your wanger
+Youra Dilda
+I’ll givit ah jinga
+
+Most Common
+theifin tools 
+muvmen = movement
+bonuaction = bonus action
+ception = deception
+ssuasion = persuassion
+suade = persuassion
+intelli = intelligence 
+ception - perceptionnsjkee
+whez it = where is it
+ Blimey
+ cheers mate
+masta = Masta
+Rovia = Barovia
+Stani = Vistani
+putah spell = cast spell
+
+
+
+
+
+
+
+
+
 
 
 
