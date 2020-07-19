@@ -86,6 +86,7 @@ Character Warm Up
 - Have a squiz
 - Hooley dooley
 - Have a go, ya mug!
+- Are your ears painted on? = dont listen
 
 
 
