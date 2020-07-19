@@ -110,7 +110,6 @@ BLESSING TO RESTORE THE HOUSE FOR THE CHILDREN
 __________________________________________________________
 
 NEXT STEPS, GOTO SECRET ROOM 
-CREATE A [SHOPPING LIST](FILES/SHOPPINGLIST.MD)
 
 
  
