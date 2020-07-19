@@ -115,10 +115,12 @@ Character Warm Up
 - fair go - agree too something
 
 # People
+- cheeky bugger = good person
 - A couple of sandwiches short of a picnic = someone crazy
-- Not the sharpest knife in the drawer.
+- Not the sharpest knife in the drawer = someone crazy
 - a stubbie short of a six pack = someone crazy
-- Don’t be a drongo mate
+- Don’t be a drongo mate = asshole
+
 
 # Things
 - woofa - dog
