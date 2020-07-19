@@ -105,7 +105,7 @@ Character Warm Up
 - woofa - dog
 - Deliver the goods
 - Keep on talking even if you've gotta make it up!
-- 
+- Not the sharpest knife in the drawer.
 
 # Good
 - best thing since sliced bread - good
