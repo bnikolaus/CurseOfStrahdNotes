@@ -1,22 +1,22 @@
-NIKKEY DUNDA 
+Nikkey Dunda 
 --------------------------------------------------------------
-__A flawed charlattan conman consumed by a dark past.__ 
+__a Flawed Charlattan Conman Consumed By A Dark Past.__ 
 
-![](IMAGES/TOKEN.PNG)
+![](Images/Token.Png)
 
 
-CHARACTER DEVELOPMENT
+Character Development
 --------------------------------------------------------------
-- [BACKSTORY](FILES/BACKSTORY.MD)
-- [BUILD](FILES/BUILD.MD)
-- [ROLEPLAYING](FILES/ROLEPLAYING.MD)
-- [SHOPPINGLIST](FILE/SHOPPINGLIST.MD)
-- [TRICKS](FILES/TRICKS.MD)
+- [Backstory](Files/Backstory.Md)
+- [Build](Files/Build.Md)
+- [Roleplaying](Files/Roleplaying.Md)
+- [Shoppinglist](File/Shoppinglist.Md)
+- [Tricks](Files/Tricks.Md)
 
 
-CAMPAIGNS
+Campaigns
 --------------------------------------------------------------
-- [COS MONDAY NIGHT WITH DMCAT](FILES/CURSEOFSTRAHD.MD)
+- [Cos Monday Night With Dmcat](Files/Curseofstrahd.Md)
 
 
 

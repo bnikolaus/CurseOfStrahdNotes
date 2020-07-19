@@ -1,112 +1,112 @@
-# VOCABULARY
-HTTPS://WWW.AUSTRALIADAY.COM.AU/GET-INVOLVED/AUSSIE-SLANG-DICTIONARY/LETTER/H/
+# Vocabulary
+Https://Www.Australiaday.Com.Au/Get-Involved/Aussie-Slang-Dictionary/Letter/H/
 
-- DONT OPEN YOUR MOUTH
-- SAY EVERYTHING REALLY FAST
-- DONT ENUNCIATE YOUR R’S
+- Dont Open Your Mouth
+- Say Everything Really Fast
+- Dont Enunciate Your R’s
 
-# WORDS
-- A STRAYAN LIKE MEH MATE RIGHT THERE TULLIED A BLOQUE IN A FIGHT AND WITH A FEW 
-CHARACTER WARM UP
-- TRY SAYING THE WORDS: AUSTRALIAN (STRAYAN), LIKE, MIGHT, RIGHT, FIGHT, DIRE, MATE, DATE, NO, HAT, WATER BOTTLE, CATCHING, RUNNING, AND TOGETHER.
-- OI
-- HOWZAT = HOW IS THAT 
-- YOUZ 
-- HOWZ
-- WEZ
-- HEAPS AND BLOODY A LOT
-- WEE BIT
-- HOW YA GOIN?
-- THEHT - THAT
-- GOOD ON YA
-- GIVE IT A GO
-- LIKA - LIKE
-- MATES, SHEILAS, BLOQUES
-- GOOD EYE MATE SAY FAST
-- MITE MAYBE 
-- CHEEKY
-- FLAT OUT LIKE LIZARD DRINKING
-- RUSE - 
-- TOOHEY’S - BEERS
-- ADD HEY TO THE END OF SENTENCES
-- I THINK I CAN SEE YOUR WANGER
-- YOURA DILDA
-- I’LL GIVIT AH JINGA
+# Words
+- A Strayan Like Meh Mate Right There Tullied A Bloque In A Fight And With A Few 
+Character Warm Up
+- Try Saying The Words: Australian (Strayan), Like, Might, Right, Fight, Dire, Mate, Date, No, Hat, Water Bottle, Catching, Running, And Together.
+- Oi
+- Howzat = How Is That 
+- Youz 
+- Howz
+- Wez
+- Heaps And Bloody A Lot
+- Wee Bit
+- How Ya Goin?
+- Theht - That
+- Good On Ya
+- Give It A Go
+- Lika - Like
+- Mates, Sheilas, Bloques
+- Good Eye Mate Say Fast
+- Mite Maybe 
+- Cheeky
+- Flat Out Like Lizard Drinking
+- Ruse - 
+- Toohey’s - Beers
+- Add Hey To The End Of Sentences
+- I Think I Can See Your Wanger
+- Youra Dilda
+- I’ll Givit Ah Jinga
 
-# D&D SPECIFIC
-- THEIFIN TOOLS = 
-- SWIPE = STEAL
-- MUVMEN = MOVEMENT
-- BONY ACTIN = BONUS ACTION
-- CEPTION = DECEPTION
-- SSUASION = PERSUASSION
-- TELLI = INTELLIGENCE 
-- WHEZ IT = WHERE IS IT
-- HIT FOR SIX = SLEEP
-- PUTAH SPELL = CAST SPELL
-- SQIZING KIT = DISGUISE KIT
-- FORGIN KIT = FORGERY KIT
+# D&D Specific
+- Theifin Tools = 
+- Swipe = Steal
+- Muvmen = Movement
+- Bony Actin = Bonus Action
+- Ception = Deception
+- Ssuasion = Persuassion
+- Telli = Intelligence 
+- Whez It = Where Is It
+- Hit For Six = Sleep
+- Putah Spell = Cast Spell
+- Sqizing Kit = Disguise Kit
+- Forgin Kit = Forgery Kit
 
-# CURSE OF STRAHD
-- MASTA = MASTA
-- ROVIA = BAROVIA
-- STANI = VISTANI
+# Curse Of Strahd
+- Masta = Masta
+- Rovia = Barovia
+- Stani = Vistani
 
 
-# COMMON 
-- NUTTIN - NOTHING
-- HANG ON A TICK - WAIT BACK
-- OHH, BUGGA 
+# Common 
+- Nuttin - Nothing
+- Hang On A Tick - Wait Back
+- Ohh, Bugga 
 
-# ACTIONS
-- HAVE A GO, YA MUG! = TRY IT
-- I GOT A HANDLE ON IT - IM GOOD
-- HAVE A CRACK - TAKE ACTION
-- HAVE A SQUIZ - TAKE ACTION
-- SHOOT THROUGH = LEAVE
-- HOOLEY DOOLEY = SURPRIZED
-- ARE YOUR EARS PAINTED ON? = DONT LISTEN
-- DRY AS A DEAD DINGO - THIRSTY
-- CARK IT - TO DIE
-- CHUCK A SPEWIE - TURN AROUND
-- PUT A SOCK IN IT - SHUT UP
-- PULLING YOUR LEG - 
-- RAT BAG - 
-- RINGER - TOP GUY
-- CLANGER - 
-- WADYASAY - SAY AGAIN
-- WHINGER - 
-- BAIL - LEAVE
-- YOU PANSYS READY TO TEE UP - TAKE ACTION
+# Actions
+- Have A Go, Ya Mug! = Try It
+- I Got A Handle On It - Im Good
+- Have A Crack - Take Action
+- Have A Squiz - Take Action
+- Shoot Through = Leave
+- Hooley Dooley = Surprized
+- Are Your Ears Painted On? = Dont Listen
+- Dry As A Dead Dingo - Thirsty
+- Cark It - To Die
+- Chuck A Spewie - Turn Around
+- Put A Sock In It - Shut Up
+- Pulling Your Leg - 
+- Rat Bag - 
+- Ringer - Top Guy
+- Clanger - 
+- Wadyasay - Say Again
+- Whinger - 
+- Bail - Leave
+- You Pansys Ready To Tee Up - Take Action
 
-# COMMON 
-- HOWZAT = HOW IS THAT 
-- DELIVER THE GOODS
-- KEEP ON TALKING EVEN IF YOU'VE GOTTA MAKE IT UP!
-- BLIMEY
-- CHEERS MATE
-- PANSY 
-- FAIR GO - AGREE TOO SOMETHING
+# Common 
+- Howzat = How Is That 
+- Deliver The Goods
+- Keep On Talking Even If You'Ve Gotta Make It Up!
+- Blimey
+- Cheers Mate
+- Pansy 
+- Fair Go - Agree Too Something
 
-# PEOPLE
-- CHEEKY BUGGER = GOOD PERSON
-- A COUPLE OF SANDWICHES SHORT OF A PICNIC = SOMEONE CRAZY
-- NOT THE SHARPEST KNIFE IN THE DRAWER = SOMEONE CRAZY
-- A STUBBIE SHORT OF A SIX PACK = SOMEONE CRAZY
-- DON’T BE A DRONGO MATE = ASSHOLE
-- THAT ONE IS, THICK AS A BRICK - NOT SMART
-- ANKLE BITTERS, KIDS
-- TIGHT AS A FISHES BUM - CHEAPSKATE UNCOOPERATE
+# People
+- Cheeky Bugger = Good Person
+- A Couple Of Sandwiches Short Of A Picnic = Someone Crazy
+- Not The Sharpest Knife In The Drawer = Someone Crazy
+- A Stubbie Short Of A Six Pack = Someone Crazy
+- Don’t Be A Drongo Mate = Asshole
+- That One Is, Thick As A Brick - Not Smart
+- Ankle Bitters, Kids
+- Tight As A Fishes Bum - Cheapskate Uncooperate
 
-# THINGS
-- WOOFA - DOG
+# Things
+- Woofa - Dog
 
-# GOOD
-- BEST THING SINCE SLICED BREAD
-- BONZA
+# Good
+- Best Thing Since Sliced Bread
+- Bonza
 
-# BAD
-- FLAMIN' HELL
-- UP A GUMTREE
-- IFFY 
-- SCARED, YOU PACKING DARKIES
+# Bad
+- Flamin' Hell
+- Up A Gumtree
+- Iffy 
+- Scared, You Packing Darkies

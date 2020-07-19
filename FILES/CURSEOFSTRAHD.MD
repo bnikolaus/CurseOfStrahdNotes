@@ -1,115 +1,115 @@
-# CURSE OF STRAHD MONDAY NIGHTS
+# Curse Of Strahd Monday Nights
 
-### THE PARTY MOVEMENT ORDER;
+### The Party Movement Order;
 
-|PLAYER  |AKA           |SPECIALTY                                                                   |
+|Player  |Aka           |Specialty                                                                   |
 |---     |---           |---                                                                         |
-|ERRAMUS | ERRANDBOY    | THE BRAINS OF THE OPERATION BECAUSE HE IS THE ONLY ONE WHO CAN OPEN A DOOR |
-|[NIKKEY](CHARACTER.MD)  | THE PROVACTUR      | STEALTH, LOCKS OR TRAPS AND ACTION                   |   
-|SKYLARC | THE SHIELA       | SHE GETS PISSED EASILY                                                     |
-|SEBI    | SEABISCUIT OR STINKY | STRONGEST MAGE HAND IN THE LAND                                    |
-|EREBUS  | BUSBOY       | BURNING THINGS AND LOVER OF ELF'S                                          |
-|NILNEAK | NILLYWILLY   | ELDRITCH BLAST FIRST, ASK QUESTIONS LATER                                  | 
+|Erramus | Errandboy    | The Brains Of The Operation Because He Is The Only One Who Can Open A Door |
+|[Nikkey](Character.Md)  | The Provactur      | Stealth, Locks Or Traps And Action                   |   
+|Skylarc | The Shiela       | She Gets Pissed Easily                                                     |
+|Sebi    | Seabiscuit Or Stinky | Strongest Mage Hand In The Land                                    |
+|Erebus  | Busboy       | Burning Things And Lover Of Elf'S                                          |
+|Nilneak | Nillywilly   | Eldritch Blast First, Ask Questions Later                                  | 
 
-### NPC'S ENCOURTERED BY THE PARTY
-___PEOPLE WHO HAVE GIVEN US QUESTS;___ 
-- DUTCHY OF DAGGERFOR - MOTIVATIONS UNKOWN, HUSBANS IS DEAD AND SHE IS SCARED, SENT US 
-TO FIND SOMEMISSING PEOPLE.
-- ROSE & THORN - ROSAVALDA DURNST UNKOWN WHAT THEY WANT US TO PLAY WITH THEM
+### Npc'S Encourtered By The Party
+___people Who Have Given Us Quests;___ 
+- Dutchy Of Daggerfor - Motivations Unkown, Husbans Is Dead And She Is Scared, Sent Us 
+To Find Somemissing People.
+- Rose & Thorn - Rosavalda Durnst Unkown What They Want Us To Play With Them
 
-___THE PEOPLE WE ARE LOOKING FOR;___ 
-- BELLA THE BRAVE
-- KRYSTOPF - FIGHTER
-- JOESLINE - MAGIC USER 
-- DOMINIQUE - ROGUE - LIKELY DEAD, KNIKKEY GOT HIS HAND I THINK
+___the People We Are Looking For;___ 
+- Bella The Brave
+- Krystopf - Fighter
+- Joesline - Magic User 
+- Dominique - Rogue - Likely Dead, Knikkey Got His Hand I Think
 
-___PEOPLE OF INTEREST;___
-- STRAHD            - BAD GUY, A MESSIAH, NOT HERE TO LEAD, WE ARE ON HIS EARTH
-- IRENA             - BAD GUY,  BURGOMASTERS DAUGHTER
-- KOLYAN INDIROVICH - NEUTRAL GUY, DAUGHTER BITTEN BY VAMPIRE, SEEKS TO HELP TO CONTAIN A VILE 
-CREATURE WHO HAS BECOME TO POWERFUL, SEEKS TO CONTAIN THIS POWER WITHIN BAROVIA, PERHAPS HAS A 
-REWARD FOR DOMINIQUE, I AM DOMINIQUE 
-- ROSE & THORN      - UNKNOWN - ROSAVALDA DURNST
-- GUSTAV DURST      - TORTURED PEOPLE IN HIS DUNGEON, MOTIVATIONS UNKNOWN, PERHAPS IMMORTALITY
--  DURST WILL DOCUMENTS ALL SIGNED FORGED
+___people Of Interest;___
+- Strahd            - Bad Guy, A Messiah, Not Here To Lead, We Are On His Earth
+- Irena             - Bad Guy,  Burgomasters Daughter
+- Kolyan Indirovich - Neutral Guy, Daughter Bitten By Vampire, Seeks To Help To Contain A Vile 
+Creature Who Has Become To Powerful, Seeks To Contain This Power Within Barovia, Perhaps Has A 
+Reward For Dominique, I Am Dominique 
+- Rose & Thorn      - Unknown - Rosavalda Durnst
+- Gustav Durst      - Tortured People In His Dungeon, Motivations Unknown, Perhaps Immortality
+-  Durst Will Documents All Signed Forged
 
-### PLACES
-- BAROVIA - HAS A DEVIL THAT MUST BE CONTAINED 
-- DAGGERFORD - SWORD COAST TOWN, NIKKEY PLAYED A LOT OF BALDURS BONES THERE
+### Places
+- Barovia - Has A Devil That Must Be Contained 
+- Daggerford - Sword Coast Town, Nikkey Played A Lot Of Baldurs Bones There
 
-### QUESTS 
-- FIND THE MISSING PEOPLE FOR DUTCHY
-- ROSE AND THORN WANT US TO PLAY IN SCARY HOUSE
+### Quests 
+- Find The Missing People For Dutchy
+- Rose And Thorn Want Us To Play In Scary House
 
-### ITEMS 
-- BLOOD VELVET COIN PURSE WITH 20 GOLD - EVERYONE
-- DECAYED HAND - NIKKEY
-- TIGER RUG - NIKKEY
-- __DOMINIQUE'S LETTER__
+### Items 
+- Blood Velvet Coin Purse With 20 Gold - Everyone
+- Decayed Hand - Nikkey
+- Tiger Rug - Nikkey
+- __dominique'S Letter__
 
-![LINK](../IMAGES/BURGOMASTERLETTER.JPG)
+![Link](../Images/Burgomasterletter.Jpg)
 
-- __STRAHD'S LETTER__  
+- __strahd'S Letter__  
 
-![STRAHDLETTER](../IMAGES/STRAHDLETTER.JPG)
+![Strahdletter](../Images/Strahdletter.Jpg)
 
-- DURNST DOCUMENTS - WILL FOR PROPERTY
+- Durnst Documents - Will For Property
 
-#### MEMORABLE ACTIONS
-- NIKKEY CONVINCES THE DUTCHESS TO GIVE US ALL 20 GOLD PEICES TO FIND SOME MISSING PEOPLE.
-- WE ALL GET ENVELOPED BY A THICK UNATURAL FOG WHICH WE APPEAR TO BE LOST IN UNTIL WE FIND A 
-GATE WITH HEADLESS STATUES.
-![GATE](../IMAGES/GATESOFBAROVIA.JPG)
-- ERREBUS GETS US ALL INSPIRATION FOR PUTTING TO REST A MAN WHO WAS HANGING IN A TREE, PROBABLY 
-ONE OF THE DEAD GUYS WE HAVE BE LOOKING FOR.
-- NICKY CLIMBS THE DEAD TREE AND SEES A LIGHT  WHICH THEY FOLLOW TO BIG SCARY HOUSE
-- OUTSIDE THE LIGHT UP HOUSE THE PARTY AGREE'S TO TAKE A LOOK AT THE BASEMENT TO ENSURE FOR A GOOD 
-NIGHTS REST.
-- ONCE INSIDE EVERYONE IS GIVEN A FEAST, EXCEPT NIKKEY DOES DRUGS UPSTAIRS AND CANNOT SLEEP DUE TO 
-PARANOIA.
-- AFTER ARGUING OVER IS THE HOUSE SAFE, FINALLY THE DECIDE TO SLEEP.
-- THEY WAKE TO CHILLS AND APPEAR TO BE WALLED IN THE HOUSE BY BRICKS.
+#### Memorable Actions
+- Nikkey Convinces The Dutchess To Give Us All 20 Gold Peices To Find Some Missing People.
+- We All Get Enveloped By A Thick Unatural Fog Which We Appear To Be Lost In Until We Find A 
+Gate With Headless Statues.
+![Gate](../Images/Gatesofbarovia.Jpg)
+- Errebus Gets Us All Inspiration For Putting To Rest A Man Who Was Hanging In A Tree, Probably 
+One Of The Dead Guys We Have Be Looking For.
+- Nicky Climbs The Dead Tree And Sees A Light  Which They Follow To Big Scary House
+- Outside The Light Up House The Party Agree'S To Take A Look At The Basement To Ensure For A Good 
+Nights Rest.
+- Once Inside Everyone Is Given A Feast, Except Nikkey Does Drugs Upstairs And Cannot Sleep Due To 
+Paranoia.
+- After Arguing Over Is The House Safe, Finally The Decide To Sleep.
+- They Wake To Chills And Appear To Be Walled In The House By Bricks.
 
 --------------------------------------------------------------------------------------
-- NIKKEY STILL HIGH, CAN'T SLEEP AND EVENTUALLY SEES A SPECTRAL IMAGE OF A SERVANT AND TRYS TO WAKE 
-EVERYONE UP. 
-- NILNEAK JUST WANTS TO SLEEP EVEN AFTER EVERYONE GOES DOWNSTAIRS AFTER HEARING MORE NOISES DOWNSTAIRS
-- A FEW OF US GO DOWNSTAIRS AFTER 30 MINUTES OF TRYING TO FIGURE OUT HOW DARKVISION WORKS IN ROLL20 
-AND WE FIND A NEW PARTY MEMBER A NEW CLERIC ERASMUS WHO ACTUALLY PROBABLY LIKES ELF'S UNLIKE SOME PEOPLE
-- AFTER ANOTHER 30 MINUTES  OF TRYING TO FIGURE OUT WHATS GOING ON, NIKKEY DARINGLY DECIDES TO OPEN A DOOR, 
-WHICH SEABISCUIT DECIDED WAS BETTER TO OPEN USING A MAGE HAND BUT NIKKEY SLAPPED THAT MAGE HAND AWAY.
-- THE FOOD EVERYONE ATE, WAS ACTUALLY OLD AND ROTTING AND PEOPLE ARE NOW GETTING POISENED
-- UNPROVOKED NILNEAK JUST RANDOMLY DECIDES TO START VANDALIZING ROSE AND THORNS HOUSE WITH ELDRITCH BLASTS
-AND GETS ATTACKED BY GLASS EYED DOG. NILNEAK IS CLEARLY NOT AN ANIMAL LOVER AND HAS NEVER HEARD OF ARSON.
-- AFTER WHAT SEEMS LIKE FOREVER THEY GO UPSTAIRS AND NN A DARE, NIKKEY SPRUNG A SUIT OF TRAP OF MAGICAL ARMOR, 
-SKYLARC WRESTLED WITH THE MAGICAL ARMOR AND THREW IT OFF THE BALCONY, THEN NIKKEY JUMPED OFF A 30 STORY 
-BALCONY, WHICH HE ROLLED A CRIT TO VANQUISH THE ARMOR AND SAVE THE DAY 
-- AS THEY SEARCHED MORE ROOMS FOUND A TIGERSKING RUG/CLOAK AND USED IT TO CREATIVELY ENSARE A BROOM WITH A CRIT, AND IMMEDIATLY 
-AFTER EREBUS ROLLED A CRIT AND SMASHED IT TO PEICES... THATS FUCKING TEAMWORK.
-- HE ALSO FOUND A TREASURE CHEST FULL OF SOME DOCUMENTS, MAGICAL SCROLLS, AND PROCURRED A POISON DART FROM
-A TRAP. POISON WAS FATALLY STRONG ENOUGHT KILL SOMEONE.
-- STRAHDS LETTER - NIKKEY EXAMINED STRAHDS LETTER AND BEGAIN FORGING DOCUMENTS FROM STRAHDS HANDWRITTING 
+- Nikkey Still High, Can'T Sleep And Eventually Sees A Spectral Image Of A Servant And Trys To Wake 
+Everyone Up. 
+- Nilneak Just Wants To Sleep Even After Everyone Goes Downstairs After Hearing More Noises Downstairs
+- A Few Of Us Go Downstairs After 30 Minutes Of Trying To Figure Out How Darkvision Works In Roll20 
+And We Find A New Party Member A New Cleric Erasmus Who Actually Probably Likes Elf'S Unlike Some People
+- After Another 30 Minutes  Of Trying To Figure Out Whats Going On, Nikkey Daringly Decides To Open A Door, 
+Which Seabiscuit Decided Was Better To Open Using A Mage Hand But Nikkey Slapped That Mage Hand Away.
+- The Food Everyone Ate, Was Actually Old And Rotting And People Are Now Getting Poisened
+- Unprovoked Nilneak Just Randomly Decides To Start Vandalizing Rose And Thorns House With Eldritch Blasts
+And Gets Attacked By Glass Eyed Dog. Nilneak Is Clearly Not An Animal Lover And Has Never Heard Of Arson.
+- After What Seems Like Forever They Go Upstairs And Nn A Dare, Nikkey Sprung A Suit Of Trap Of Magical Armor, 
+Skylarc Wrestled With The Magical Armor And Threw It Off The Balcony, Then Nikkey Jumped Off A 30 Story 
+Balcony, Which He Rolled A Crit To Vanquish The Armor And Save The Day 
+- As They Searched More Rooms Found A Tigersking Rug/Cloak And Used It To Creatively Ensare A Broom With A Crit, And Immediatly 
+After Erebus Rolled A Crit And Smashed It To Peices... Thats Fucking Teamwork.
+- He Also Found A Treasure Chest Full Of Some Documents, Magical Scrolls, And Procurred A Poison Dart From
+A Trap. Poison Was Fatally Strong Enought Kill Someone.
+- Strahds Letter - Nikkey Examined Strahds Letter And Begain Forging Documents From Strahds Handwritting 
 ```
-TO WHOMEVER READS THIS LETTER, 
+To Whomever Reads This Letter, 
 
-PLEASE EXTEND THE FINEST HOSPITALITY BAROVIA HAS TO OFFER TO THE COMPANIONS WHO 
-HAVE THIS LETTER. YOUR LORD EXPECT YOU WILL TREAT THEM WITH THE HIGHEST REGARD AND 
-EQUIP THEM WITH WHATEVER THEY SO DESIRE FOR WHICH I WILL REIMBURSE AT FOUR TIMES THE 
-RATE. MY BUSINESS WITH THESE TRAVELLERS IS A PRIVATE MATTER MATTER AND YOUR DISCRETION
-IS ADVISED.
+Please Extend The Finest Hospitality Barovia Has To Offer To The Companions Who 
+Have This Letter. Your Lord Expect You Will Treat Them With The Highest Regard And 
+Equip Them With Whatever They So Desire For Which I Will Reimburse At Four Times The 
+Rate. My Business With These Travellers Is A Private Matter Matter And Your Discretion
+Is Advised.
 
-THE PENALTY FOR NOT HONORING YOUR LORDS WISHES WILL HAVE DIRE CONSEQUENCES.
+The Penalty For Not Honoring Your Lords Wishes Will Have Dire Consequences.
 
-YOUR DREAD LORD AND MASTER,
-STRAHD VON ZAROVICH
+Your Dread Lord And Master,
+Strahd Von Zarovich
 ```
-- NIKKEY EXAMINED - THE DURST DEEDS WANTS TO TAKE OWNERSHIP OF THE PROPERTIES, WANT'S ROSE AND THORNS 
-BLESSING TO RESTORE THE HOUSE FOR THE CHILDREN
-- FOUND A HIDDEN ROOM, IN THE DOLL HOUSE WHICH WAS A MINIATURE COPY OF THE HOUSE
-- NIKKEY GOT REALLY AFRAID AFTER TOUCHING THORNS BEAR
+- Nikkey Examined - The Durst Deeds Wants To Take Ownership Of The Properties, Want'S Rose And Thorns 
+Blessing To Restore The House For The Children
+- Found A Hidden Room, In The Doll House Which Was A Miniature Copy Of The House
+- Nikkey Got Really Afraid After Touching Thorns Bear
 __________________________________________________________
 
-NEXT STEPS, GOTO SECRET ROOM 
+Next Steps, Goto Secret Room 
 
 
  
