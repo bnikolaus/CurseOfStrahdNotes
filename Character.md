@@ -8,6 +8,7 @@
 - [Tricks](files/tricks.md)
 - [Campaigns](files/campaigns.md)
 - [Gifs](files/gifs.md)
+- [Roleplaying](file/roleplaying.md)
 
 #### Gifs
 [magic](https://media.giphy.com/media/l0ExsgrTuACbtPaqQ/giphy.gif)
