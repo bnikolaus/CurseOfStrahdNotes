@@ -61,12 +61,10 @@ Character Warm Up
 # Most Common
 - theifin tools 
 - muvmen = movement
-- bonuaction = bonus action
+- bony actin = bonus action
 - ception = deception
 - ssuasion = persuassion
-- ade = persuassion
 - telli = intelligence 
-- ception - perceptionnsjkee
 - whez it = where is it
 - Blimey
 - cheers mate
@@ -76,6 +74,8 @@ Character Warm Up
 - putah spell = cast spell
 - Sqizing kit = Disguise Kit
 - forgin kit = Forgery kit
+- nuttin - nothing
+
 
 
 
