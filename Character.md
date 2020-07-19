@@ -95,7 +95,8 @@ Character Warm Up
 - chuck a spewie - turn around
 - Put a sock in it - shut up
 - Pulling Your Leg - 
-
+- Rat Bag
+- Ringer - Top guy
 
 
 
