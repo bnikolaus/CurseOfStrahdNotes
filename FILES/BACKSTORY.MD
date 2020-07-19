@@ -1,34 +1,34 @@
-[Back](../Character.Md)
+[BACK](../CHARACTER.MD)
 
 
-Basic
+BASIC
 -----------------------------------------------------------------------
-The Only Thing Sharper Than Nikkey Dunda'S Sword Is His Mouth. This Smooth Talking Trickster Has Won And Lost A Fortune Running Confidence Games All Up And Down The Sword Coast. He Rides A Wave Of Constant Highs And Lows And Loves The Ride. He Is Constantly Pushing The Limit To His Schemes Which Has Served As Gateway To Other Problems And Addictions. The Only Time Nikkey Can Function Straight Anymore. Years Of Operating In This Thrillseeking Manner Has Made It So He Cannot Function Straight. He Will Often Will Dissappear For Short Periods Of Time To Get His Fix And Get Back Under Control. It Would Seem As If The Biggest Deception He Is Running Is Convincing Himself That He Doesn'T Have A Problem.
+THE ONLY THING SHARPER THAN NIKKEY DUNDA'S SWORD IS HIS MOUTH. THIS SMOOTH TALKING TRICKSTER HAS WON AND LOST A FORTUNE RUNNING CONFIDENCE GAMES ALL UP AND DOWN THE SWORD COAST. HE RIDES A WAVE OF CONSTANT HIGHS AND LOWS AND LOVES THE RIDE. HE IS CONSTANTLY PUSHING THE LIMIT TO HIS SCHEMES WHICH HAS SERVED AS GATEWAY TO OTHER PROBLEMS AND ADDICTIONS. THE ONLY TIME NIKKEY CAN FUNCTION STRAIGHT ANYMORE. YEARS OF OPERATING IN THIS THRILLSEEKING MANNER HAS MADE IT SO HE CANNOT FUNCTION STRAIGHT. HE WILL OFTEN WILL DISSAPPEAR FOR SHORT PERIODS OF TIME TO GET HIS FIX AND GET BACK UNDER CONTROL. IT WOULD SEEM AS IF THE BIGGEST DECEPTION HE IS RUNNING IS CONVINCING HIMSELF THAT HE DOESN'T HAVE A PROBLEM.
 
-Times Have Been A Little Tough And After A Few Unsavory Acts He Has Chosed To Join Up With Some Reputable People In An Attempt To Escape His Past.
+TIMES HAVE BEEN A LITTLE TOUGH AND AFTER A FEW UNSAVORY ACTS HE HAS CHOSED TO JOIN UP WITH SOME REPUTABLE PEOPLE IN AN ATTEMPT TO ESCAPE HIS PAST.
 
-Darker
+DARKER
 ------------------------------------------------------------------------
-Nikkey Dunda Is An Arrogant But Well Established Procurer Of The Unobtainable In Baldurs Gate. The Only Thing Sharper Than Nikkey Dunda'S Sword Is Probably His Mouth. He Has A Crude But Very Effective Manner At Getting People To Do The Things That He Wants Them To Do. After A Very Succesful Procurement Of A Dark Tome For A Lot Of Coin He Finds Himself In A Bit Of A Dark Patch With Some Of The Finer Substances In The World. To Nikkey It Actually Feels As If Something Inside Him Is Steering Him And He Feels As If He Is Loosing Control To His Addictions, But The Only Time He Can Focus Is When He Is High.   
+NIKKEY DUNDA IS AN ARROGANT BUT WELL ESTABLISHED PROCURER OF THE UNOBTAINABLE IN BALDURS GATE. THE ONLY THING SHARPER THAN NIKKEY DUNDA'S SWORD IS PROBABLY HIS MOUTH. HE HAS A CRUDE BUT VERY EFFECTIVE MANNER AT GETTING PEOPLE TO DO THE THINGS THAT HE WANTS THEM TO DO. AFTER A VERY SUCCESFUL PROCUREMENT OF A DARK TOME FOR A LOT OF COIN HE FINDS HIMSELF IN A BIT OF A DARK PATCH WITH SOME OF THE FINER SUBSTANCES IN THE WORLD. TO NIKKEY IT ACTUALLY FEELS AS IF SOMETHING INSIDE HIM IS STEERING HIM AND HE FEELS AS IF HE IS LOOSING CONTROL TO HIS ADDICTIONS, BUT THE ONLY TIME HE CAN FOCUS IS WHEN HE IS HIGH.   
 
-Recently He Has Decided To Turn A New Page In His Life And Has Chosen To Surround Himself With More Agreeable People In An Attempt To Get Away From The Darkness He Feels Crawling Out Of Him. He Will Often Will Dissappear For Short Periods Of Time To Get His Fix And Get Back Under Control.
+RECENTLY HE HAS DECIDED TO TURN A NEW PAGE IN HIS LIFE AND HAS CHOSEN TO SURROUND HIMSELF WITH MORE AGREEABLE PEOPLE IN AN ATTEMPT TO GET AWAY FROM THE DARKNESS HE FEELS CRAWLING OUT OF HIM. HE WILL OFTEN WILL DISSAPPEAR FOR SHORT PERIODS OF TIME TO GET HIS FIX AND GET BACK UNDER CONTROL.
 
-He Has No Family But Has A Soft Spot For Children And People In Extreme Poverty. 
+HE HAS NO FAMILY BUT HAS A SOFT SPOT FOR CHILDREN AND PEOPLE IN EXTREME POVERTY. 
 
-He Is Likely To Take Any Quest Just To Get Escape His Addiction And Whatever Dark Thoughts Are Clouding His Mind.
+HE IS LIKELY TO TAKE ANY QUEST JUST TO GET ESCAPE HIS ADDICTION AND WHATEVER DARK THOUGHTS ARE CLOUDING HIS MIND.
 
-Eventually He Is Going To Succumb To The Darkness And Become A Warlock. This Transition Is The Result Of Accidentally Viewing The Pages A Tome Of Shadows He Had Been Hired To Aquire For A Powerful Warlock. The Warlock Told Him To Not View The Tome Under Any Circumstances And That Small Peak Has Unknowingly Unleashed A Dark Diety Bound To This Book Inside Nikkey. This Diety Is Slowly Poisening Him With To The Breaking Point To Get Him To Do His Bidding. 
+EVENTUALLY HE IS GOING TO SUCCUMB TO THE DARKNESS AND BECOME A WARLOCK. THIS TRANSITION IS THE RESULT OF ACCIDENTALLY VIEWING THE PAGES A TOME OF SHADOWS HE HAD BEEN HIRED TO AQUIRE FOR A POWERFUL WARLOCK. THE WARLOCK TOLD HIM TO NOT VIEW THE TOME UNDER ANY CIRCUMSTANCES AND THAT SMALL PEAK HAS UNKNOWINGLY UNLEASHED A DARK DIETY BOUND TO THIS BOOK INSIDE NIKKEY. THIS DIETY IS SLOWLY POISENING HIM WITH TO THE BREAKING POINT TO GET HIM TO DO HIS BIDDING. 
 
 
 
-Submissions
+SUBMISSIONS
 ----------------------------------------------------------------------------
-Name: Brent    
+NAME: BRENT    
 
-Age: 37
+AGE: 37
 
-Experience In Dnd 5e And Roll20: 1 Year
+EXPERIENCE IN DND 5E AND ROLL20: 1 YEAR
 
-What Are You Like?: Entp, Ask Questions To Solve Problems And Make Decisions. I Develop Software For A Living So Structured And Technical. 
+WHAT ARE YOU LIKE?: ENTP, ASK QUESTIONS TO SOLVE PROBLEMS AND MAKE DECISIONS. I DEVELOP SOFTWARE FOR A LIVING SO STRUCTURED AND TECHNICAL. 
 
-What Kind Of Character Do You Plan On Playing: A Human Rogue / With A Dab Of Warlock... A Very Brash And Flawed Individual Who Has A Way Of Getting Things To Go His Way.  
+WHAT KIND OF CHARACTER DO YOU PLAN ON PLAYING: A HUMAN ROGUE / WITH A DAB OF WARLOCK... A VERY BRASH AND FLAWED INDIVIDUAL WHO HAS A WAY OF GETTING THINGS TO GO HIS WAY.  
