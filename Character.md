@@ -87,6 +87,8 @@ Character Warm Up
 - Hooley dooley
 - Have a go, ya mug!
 - Are your ears painted on? = dont listen
+- a stubbie short of a six pack = someone crazy
+
 
 
 
