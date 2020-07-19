@@ -75,6 +75,7 @@ Character Warm Up
 - Blimey
 - cheers mate
 - Pansy 
+- fair go - agree too something
 - masta = Masta
 - Rovia = Barovia
 - Stani = Vistani
@@ -102,9 +103,6 @@ Character Warm Up
 - wadyasay - say again
 - Whinger - 
 - woofa - dog
-
-
-
 
 
 
