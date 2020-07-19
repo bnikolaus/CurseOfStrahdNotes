@@ -97,6 +97,7 @@ Character Warm Up
 - Pulling Your Leg - 
 - Rat Bag
 - Ringer - Top guy
+- Clanger
 
 
 
