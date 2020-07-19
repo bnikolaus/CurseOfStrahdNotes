@@ -35,6 +35,7 @@
 Character Warm Up
 - Try saying the words: Australian (Strayan), like, might, right, fight, dire, mate, date, no, hat, water bottle, catching, running, and together.
 - oi
+- Howzat = how is that 
 - Youz 
 - Howz
 - Wez
@@ -59,6 +60,7 @@ Character Warm Up
 - I’ll givit ah jinga
 
 # Most Common
+- Howzat = how is that 
 - theifin tools 
 - muvmen = movement
 - bony actin = bonus action
