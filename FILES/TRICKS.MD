@@ -1,5 +1,8 @@
 [BACK](../CHARACTER.MD)
 
+#### DIFFICULTY
+DC Very Easy - 5 DC Easy - 10 DC Medium - 15 DC Hard - 20 DC Very Hard - 25 DC Nearly Impossible - 30 DC
+
 #### SPELL USES
 
 __FRIENDS__
