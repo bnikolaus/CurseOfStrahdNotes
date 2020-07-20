@@ -9,7 +9,7 @@
 |SKYLARC | THE SHIELA       | SHE GETS PISSED EASILY                                                     |
 |SEBI    | SEABISCUIT OR STINKY | STRONGEST MAGE HAND IN THE LAND                                    |
 |EREBUS  | BUSBOY       | BURNING THINGS AND LOVER OF ELF'S                                          |
-|~~NILNEAK(dead) ~~| NILLYWILLY   | ELDRITCH BLAST FIRST, ASK QUESTIONS LATER, DIED TRAGICALLY                                  | 
+|~~NILNEAK(dead)~~| NILLYWILLY   | ELDRITCH BLAST FIRST, ASK QUESTIONS LATER, DIED TRAGICALLY                                  | 
 
 ### NPC'S ENCOURTERED BY THE PARTY
 ___PEOPLE WHO HAVE GIVEN US QUESTS;___ 
