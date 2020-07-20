@@ -17,11 +17,14 @@ __FRIENDS__
 - FRIENDS CAST ON A GUARD TO GET PAST A DOOR
 
 __FORGERY KIT__
-1d20 + Proficiency opposed intelligence check 
-- DRAFT A SUICIDE NOTE FOR SOMEONE YOU JUST MURDERED 
-- DRAFT A SUMMONS LETTER FOR A POWERFUL LORD
-- Disguise Self + Illusionary Script + Forgery Kit - Sign over ownership, transfer money to account, 
-- 
+```
+Creating a forgery doesn’t require a check, though a DM might decide that certain tasks require their own checks, but typically no check. Instead, anyone who is suspicious of your document is going to make an Investigation check against a DC determined by 8 + Dexterity modifier + Proficiency bonus
+```
+- DRAFT WITH Inspiration + Guidance + Lucky 
+- DRAFT A SUICIDE NOTE FOR SOMEONE YOU JUST MURDERED - DC15
+- DRAFT A SUMMONS LETTER FOR A POWERFUL LORD - DC20 with SEAL
+- Disguise Self + Illusionary Script + Forgery Kit - Sign over ownership, transfer money to account DC15 Deception 
+
 
 __SLEIGHT OF HAND__ 
 - PICK POCKET, CAST FRIENDS TO BLAME IT ON THE OTHER GUY
