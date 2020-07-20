@@ -14,7 +14,10 @@ __FRIENDS__
 - FRIENDS CAST ON A GUARD TO GET PAST A DOOR
 
 __FORGERY KIT__
+1d20 + Proficiency opposed intelligence check 
+- DRAFT A SUICIDE NOTE FOR SOMEONE YOU JUST MURDERED 
 - DRAFT A SUMMONS LETTER FOR A POWERFUL LORD
+- Disguise Self + Illusionary Script + Forgery Kit - Sign over ownership, transfer money to account, 
 - 
 
 __SLEIGHT OF HAND__ 
