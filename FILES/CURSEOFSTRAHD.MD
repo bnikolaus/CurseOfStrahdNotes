@@ -5,7 +5,7 @@
 |PLAYER  |AKA           |SPECIALTY                                                                   |
 |---     |---           |---                                                                         |
 |ERRAMUS | ERRANDBOY    | THE BRAINS OF THE OPERATION BECAUSE HE IS THE ONLY ONE WHO CAN OPEN A DOOR |
-|[NIKKEY](CHARACTER.MD)  | THE PROVACTURE      | STEALTH, LOCKS OR TRAPS AND DRUGS                  |   
+|[NIKKEY](CHARACTER.MD)  | THE PROVACTURE      | STEALTH, FORGERY, DECEPTION AND DRUGS                  |   
 |SKYLARC | THE SHIELA       | SHE GETS PISSED EASILY                                                     |
 |SEBI    | SEABISCUIT OR STINKY | STRONGEST MAGE HAND IN THE LAND                                    |
 |EREBUS  | BUSBOY       | BURNING THINGS AND LOVER OF ELF'S                                          |
