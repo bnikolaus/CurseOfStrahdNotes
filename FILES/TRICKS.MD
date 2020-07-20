@@ -18,7 +18,9 @@ __FRIENDS__
 
 __FORGERY KIT__
 ```
-Creating a forgery doesn’t require a check, though a DM might decide that certain tasks require their own checks, but typically no check. Instead, anyone who is suspicious of your document is going to make an Investigation check against a DC determined by 8 + Dexterity modifier + Proficiency bonus
+Creating a forgery doesn’t require a check, though a DM might decide that certain tasks require their own 
+checks, but typically no check. Instead, anyone who is suspicious of your document is going to make an 
+Investigation check against a DC determined by 8 + Dexterity modifier + Proficiency bonus
 ```
 - DRAFT WITH Inspiration + Guidance + Lucky 
 - DRAFT A SUICIDE NOTE FOR SOMEONE YOU JUST MURDERED - DC15
