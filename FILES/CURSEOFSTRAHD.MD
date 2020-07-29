@@ -124,9 +124,38 @@ __________________________________________________________
 - FINALLY THE SHIELA AND THE REST OF THE RAG TAG GROUP FINALLY GET SOME ACTION AND KILL SOME GHOULS.
 - A POSSESED DOOR ATTACKS THE GROUP TRYING TO EAT ERASMUS
 - EREBUS CALLS OUT TO THE DOOR IN DIMESINONAL AND CONVINCES US TO LET US PASS
-- 
+_____________________________________________________________
 
-NEXT STEPS, GOTO SECRET ROOM 
+- Errond Boy falls in pit and almost dies
+- Nikkey Trys to open up some chests
+- The party travels down another level and finds a room that is stacekd with dark trinkets
+```
+knife from human bone
+dagger rat skull 
+8 insh orb from eyeballs
+totem that has crumbled from bone 
+cloak from stichted ghoul skin
+frog attached to stick
+component bag
+hags finger 
+6 inch tall mummy 
+iron pendant with a devils face
+```
+- The party travels down further and comes across a alter
+- Knikkey touches the altar and is surrounded by a horde of shadows that demand a sacrifice
+- Nikkey sacrifices Seabiscuits spider, but the shadows want more blood
+- Then out comes Lorgoth the Shambling Mound to take the blood
+- A epic battle is undertaken and the party vanquishes the Shambling Mound
+- They leave the Durst House
+- Begin Traveling to Barovia, They are tied and decide to take a rest just outside the City
+- A eye watches them and tells them to get on there way
+- We come accross some farmers, Nikkey tries to get information from them and says that he was hired by the Lord and is sworn to secrecay.
+- They become scared and flee, but Nikkey then assume the identity of the lead farmer and disguises himself as him
+- Upon entering Barovia the travel to an Inn called Blood of the Vine.
+- Nikkey dressed up as the farmer escorts the party into the Inn and buys them all drinks saying that these travellers saved their lives from wolves.
+- He says to treat them them well
+- The Inn keeper accomodates them and answers questions about missing people
+- 
 
 
  
