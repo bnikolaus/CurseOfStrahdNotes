@@ -155,6 +155,8 @@ iron pendant with a devils face
 - Nikkey dressed up as the farmer escorts the party into the Inn and buys them all drinks saying that these travellers saved their lives from wolves.
 - He says to treat them them well
 - The Inn keeper accomodates them and answers questions about missing people
+- Nikkey buys the 3 colorfully dressed people drinks and is approached by the Burgomasters Son Ismark
+- Nikkey shares the letter with him and we agree to help him get his sister to safety since our fates are twinned
 - 
 
 
