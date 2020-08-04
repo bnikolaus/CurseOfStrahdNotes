@@ -162,5 +162,8 @@ iron pendant with a devils face
 - Priest gets punched in the face for not doing his job.
 - His sons screams in anguish in a chained room.
 - Lathander the morninglord has abandoned the priest yet he parys to him in a sunset prayer
-- 
- 
+- Nikkey unlocks the chain and we venture downstairs to a see a small child infected with darkness
+- He has sharp teeth and is hungry while his father will not let us intervene
+- [DONOVITCH](../IMAGES/DONOVITCH.PNG)
+- [DORU](../IMAGES/DORU.PNG)
+
