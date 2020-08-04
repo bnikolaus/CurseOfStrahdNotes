@@ -157,7 +157,10 @@ iron pendant with a devils face
 - The Inn keeper accomodates them and answers questions about missing people
 - Nikkey buys the 3 colorfully dressed people drinks and is approached by the Burgomasters Son Ismark
 - Nikkey shares the letter with him and we agree to help him get his sister to safety since our fates are twinned
+- They are punch a punch a cleric in the face
+----------------------------------------
+- Priest gets punched in the face for not doing his job.
+- His sons screams in anguish in a chained room.
+- Lathander the morninglord has abandoned the priest yet he parys to him in a sunset prayer
 - 
-
-
  
