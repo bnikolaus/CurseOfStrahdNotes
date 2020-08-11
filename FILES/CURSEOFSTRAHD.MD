@@ -278,6 +278,12 @@ The party hears Nikkey argue with himself over sacrificing the Sebby to the Dark
 ```
 - Nikkey eats a pie and has a trip while he is suppose to be on watch
 
+- The party is attaced by 
+
+# The Old Bone Grinder
+- Owners have been long dead
+- 
+
 
  
  
