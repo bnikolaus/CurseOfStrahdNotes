@@ -273,6 +273,9 @@ SUCESSFUL RUMORS
 - We take a short rest
 - Nikkey hides himself from the party
 - Nikkey clearly begins talking to himself arguing over some stupid plan that he doesn't like
+```
+The party hears Nikkey argue with himself over sacrificing the Sebby to the Dark Lord, They hear him say that this is a stupid plan
+```
 - Nikkey eats a pie and has a trip while he is suppose to be on watch
 
 
