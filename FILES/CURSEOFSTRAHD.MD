@@ -264,8 +264,10 @@ SUCESSFUL RUMORS
 
 ![ZOMBIES](../IMAGES/ZOMBIES.JPG)
 
-- BATS ATTACK
+- At a grave that we have detected magic at we are instantly atttacked by a swarm of BATS
 
 ![WOLF](../IMAGES/BATSWARM.jpg)
+
+- We find a magic item a very magical sword made of pure light. The handle is wrapped in leather, where the handle was not created.
 
 
