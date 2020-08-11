@@ -270,4 +270,13 @@ SUCESSFUL RUMORS
 
 - We find a magic item a very magical sword made of pure light. The handle is wrapped in leather, where the handle was not created.
 
+- We take a short rest
+- Nikkey hides himself from the party
+- Nikkey clearly begins talking to himself arguing over some stupid plan that he doesn't like
+- Nikkey eats a pie and has a trip while he is suppose to be on watch
+
+
+ 
+ 
+
 
