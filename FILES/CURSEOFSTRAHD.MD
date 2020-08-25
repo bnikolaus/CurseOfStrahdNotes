@@ -303,9 +303,15 @@ The party hears Nikkey argue with himself over sacrificing the Sebby to the Dark
 - A bargain cannot be struck and Nikkey finds a secret passage at the top only to be greeted by two other Witches
 - He flees and climbs back down
 - Hal strikes at Morgatha and an Epic Battle Begins
-- Her 2 Sisters join the party and she begins kicking over buckets and 
+- Her 2 Sisters join the party and she begins kicking over buckets and monsters keep coming
+- Battle was Epic
 
-
+- Items Found
+'''
+Stone of Morgatha
+19 gold
+8 electrum
+'''
  
  
 
