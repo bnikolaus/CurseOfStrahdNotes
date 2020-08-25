@@ -232,71 +232,24 @@ IRON PENDANT WITH A DEVILS FACE
 - AS GIFT NIKKEY LEAVES THE OLD CART TO MADAME EVA TO HELP HER WALK, HE WORRIES ABOUT HER HEALTH ALWAYS SITTING
 
 ```
-CARDS
-1. 
-
-"This card tells of history. Knowledge of the ancient will help you better understand your enemy."
-
+1. "This card tells of history. Knowledge of the ancient will help you better understand your enemy."
 Necromancer
-
 "A woman hangs above a roaring fire. Find her, and you will find the treasure."
 
-
-
-2.
-
-"This card tells of a powerful force for good and protection, a holy symbol of great hope."
-
-
-
+2."This card tells of a powerful force for good and protection, a holy symbol of great hope."
 Philanthropist
-
-
-
 "Look to a place where sickness and madness are bred. Where children once cried, the treasure lies still.
 
-
-
-3.
-
-
-
-"This is a card of power and strength. It tells of a weapon of vengeance -- a sword of sunlight."
-
-
-
+3. "This is a card of power and strength. It tells of a weapon of vengeance -- a sword of sunlight."
 Thief
-
-
-
 "What you seek lies at the crossroads of life and death, buried among the dead."
 
-
-
-4.
-
-
-
-"This card sheds light on one who will help you greatly in the battle against darkness."
-
+4. "This card sheds light on one who will help you greatly in the battle against darkness."
 The Innocent
-
 "Evil's Bride is the one you seek."
 
-
-
-5.
-
-
-
-"Your enemy is a creature of darkness whose powers are beyond mortality. This card will lead you to him."
-
-
-
+5. "Your enemy is a creature of darkness whose powers are beyond mortality. This card will lead you to him."
 Raven
-
-
-
 "Look to the mother's tomb."
 ```
 
