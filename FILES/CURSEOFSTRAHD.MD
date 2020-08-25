@@ -233,11 +233,71 @@ IRON PENDANT WITH A DEVILS FACE
 
 ```
 CARDS
-1.) A WOMAN HANGS ABOVE A ROARING FIRE. FIND THIS AND FIND A TREASURE
-2.) A POWERFUL FORCE OF GOOD, WHERE SICKNESS AND MADNESS ARE BREAD, THE TREASURE LIES STILL
-3.) A POWERFUL WEAPON, A WEAPON OF VENGENCE, AT THE CROSSROADS OF LIFE AND DEATH
-4.) EVIL'S BRIDE IS THE ONE YOU SEEK
-5.) YOUR ENEMY IS DARKNESS, YOU WILL WANT TO LOOK TO THE MOTHERS TOMB
+1. 
+
+"This card tells of history. Knowledge of the ancient will help you better understand your enemy."
+
+Necromancer
+
+"A woman hangs above a roaring fire. Find her, and you will find the treasure."
+
+
+
+2.
+
+"This card tells of a powerful force for good and protection, a holy symbol of great hope."
+
+
+
+Philanthropist
+
+
+
+"Look to a place where sickness and madness are bred. Where children once cried, the treasure lies still.
+
+
+
+3.
+
+
+
+"This is a card of power and strength. It tells of a weapon of vengeance -- a sword of sunlight."
+
+
+
+Thief
+
+
+
+"What you seek lies at the crossroads of life and death, buried among the dead."
+
+
+
+4.
+
+
+
+"This card sheds light on one who will help you greatly in the battle against darkness."
+
+The Innocent
+
+"Evil's Bride is the one you seek."
+
+
+
+5.
+
+
+
+"Your enemy is a creature of darkness whose powers are beyond mortality. This card will lead you to him."
+
+
+
+Raven
+
+
+
+"Look to the mother's tomb."
 ```
 
 - WE HEAR A VISTANI STORY ABOUT A WIZARD THAT WAS DESTROYED BY THE LORD OF THE LAND AND THROWN DOWN INTO A RIVER. THEY SEEM NEURTRAL AS TO WHO IS GOOD AND WHO IS BAD IN THE STORY. 
@@ -278,11 +338,19 @@ The party hears Nikkey argue with himself over sacrificing the Sebby to the Dark
 ```
 - Nikkey eats a pie and has a trip while he is suppose to be on watch
 
-- The party is attaced by 
+- The party is attaced by giant voles
 
 # The Old Bone Grinder
-- Owners have been long dead
-- 
+- Outside of the Old Bone Grinder the party contemplates on entering
+- An old Raven tells us to avoid this place ad it is very dangerous, so ofcourse we don't run from danger
+- Nikkey Dresses up as a little girl and enters to try and trick the owners but they easily recognize him
+- He relays the scheme will not work back to the Party and Hal enters the Windmill
+- Sebby Casts detect thoughts and hears witches and children
+- Nikkey Climbs the Tower and attempts to free the children while Hal negiotiates with the Morgatha
+- A bargain cannot be struck and Nikkey finds a secret passage at the top only to be greeted by two other Witches
+- He flees and climbs back down
+- Hal strikes at Morgatha and an Epic Battle Begins
+- Her 2 Sisters join the party and she begins kicking over buckets and 
 
 
  
