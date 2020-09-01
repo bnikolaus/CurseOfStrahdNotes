@@ -313,6 +313,13 @@ Stone of Morgatha
 8 electrum
 '''
  
+# VALLEKI / INN
+- Nikkey disguises himself as Morgatha and tries entering Vallaki to sell pies
+- Vallaki doesn't like Morgatha
+- They summon the Burgomaster to deny her entry
+- Dropped off Irena and 
+- 
+- Church Sanctuary for Irena and 
  
 
 
