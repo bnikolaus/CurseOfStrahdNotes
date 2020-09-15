@@ -323,6 +323,8 @@ Stone of Morgatha
 
 # Vampire Nest 
 - Henrik the Coffin Maker
+- Guards outside his house
+- Slayed Vampires in his House
 
 # Burgomaster
 - Hunting / Vistani Spy
