@@ -325,10 +325,12 @@ Stone of Morgatha
 
 # Burgomaster
 - Hunting / Vistani Spy
-- Festival 
+- Vallaki Burgomaster has enemies
+ - 
+ - Festival 
 - Blacksmith
 - Generalist
-- 
+
  
 
 
