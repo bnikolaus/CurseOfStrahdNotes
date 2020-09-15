@@ -320,6 +320,13 @@ Stone of Morgatha
 - Dropped off Irena and 
 - 
 - Church Sanctuary for Irena and 
+
+# Vampire Nest 
+
+# Burgomaster
+- Hunting / Vistani Spy
+- Festival 
+- 
  
 
 
