@@ -322,6 +322,7 @@ Stone of Morgatha
 - Church Sanctuary for Irena and 
 
 # Vampire Nest 
+- Henrik the Coffin Maker
 
 # Burgomaster
 - Hunting / Vistani Spy
