@@ -331,7 +331,7 @@ Stone of Morgatha
 - Vallaki Burgomaster has enemies and we are staying for the festival
 - Van Holtz - Helped get Vampires into Valaki
 - Momma Walkters, Texas Ranger
-- 
+- nikoli and walkter brothers
  
  # Studded Armor
  - GuARDS HAVE IT
