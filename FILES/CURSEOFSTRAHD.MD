@@ -326,6 +326,8 @@ Stone of Morgatha
 # Burgomaster
 - Hunting / Vistani Spy
 - Festival 
+- Blacksmith
+- Generalist
 - 
  
 
