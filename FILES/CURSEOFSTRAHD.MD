@@ -330,8 +330,8 @@ Stone of Morgatha
 - Hunting / Vistani Spy
 - Vallaki Burgomaster has enemies and we are staying for the festival
 - Van Holtz - Helped get Vampires into Valaki
-- The Walkters
- 
+- Momma Walkters, Texas Ranger
+- 
  
  # Studded Armor
  - GuARDS HAVE IT
