@@ -325,12 +325,9 @@ Stone of Morgatha
 
 # Burgomaster
 - Hunting / Vistani Spy
-- Vallaki Burgomaster has enemies
- - 
- - Festival 
-- Blacksmith
-- Generalist
-
+- Vallaki Burgomaster has enemies and we are staying for the festival
+- Van Holtz - Helped get Vampires into Valaki
+- The Walkters
  
 
 
