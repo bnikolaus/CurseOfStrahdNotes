@@ -336,4 +336,6 @@ Stone of Morgatha
  # Studded Armor
  - GuARDS HAVE IT
 
+# Vistani Camp
+- Missing Vistani Girl, with his own girl
 
