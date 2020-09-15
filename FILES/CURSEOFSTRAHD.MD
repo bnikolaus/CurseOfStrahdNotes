@@ -337,5 +337,5 @@ Stone of Morgatha
  - GuARDS HAVE IT
 
 # Vistani Camp
-- Missing Vistani Girl, with his own girl
+- Missing Vistani Girl, with his own girl, Brown Hair Hazel Eyes Arabell
 
