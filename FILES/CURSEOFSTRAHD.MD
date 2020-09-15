@@ -332,5 +332,8 @@ Stone of Morgatha
 - Van Holtz - Helped get Vampires into Valaki
 - The Walkters
  
+ 
+ # Studded Armor
+ - GuARDS HAVE IT
 
 
