@@ -340,3 +340,6 @@ Stone of Morgatha
 - Missing Vistani Girl, with his own girl, Brown Hair Hazel Eyes Arabell
 - Bluto the Fisherman was going to sacrifice her to bring about new fish
 
+#
+- Heading to Catalina Wine Mixer
+
