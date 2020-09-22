@@ -331,10 +331,18 @@ Stone of Morgatha
 - Vallaki Burgomaster has enemies and we are staying for the festival
 - Van Holtz - Helped get Vampires into Valaki
 - Momma Walkters, Texas Ranger, her boys don't like the Burgomaster much, want to figure out why she doesn't like them, book club
-- nikoli and walkter brothers
+- Nikoli and walkter brothers
  
  # Studded Armor
  - GuARDS HAVE IT
+
+# Watcher House
+- Kid is locked in a cat cage.
+- Bookreading
+- 
+
+# Blinksy
+- Find the Secret Toy in strahds castle
 
 # Vistani Camp
 - Missing Vistani Girl, with his own girl, Brown Hair Hazel Eyes Arabell, who is a relative of Madam Eva
