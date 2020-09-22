@@ -317,9 +317,9 @@ Stone of Morgatha
 - Nikkey disguises himself as Morgatha and tries entering Vallaki to sell pies
 - Vallaki doesn't like Morgatha
 - They summon the Burgomaster to deny her entry
-- Dropped off Irena and 
-- 
-- Church Sanctuary for Irena and 
+- Dropped off Irena and Ismark at the Blue Inn and wen to go find a Church or Sanctuary for Irena
+- Church is missing holy artifacts, bones
+- We chase the bones down to Coffin Maker where were stolen
 
 # Vampire Nest 
 - Henrik the Coffin Maker
