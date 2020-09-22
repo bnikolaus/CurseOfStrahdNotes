@@ -337,7 +337,7 @@ Stone of Morgatha
  - GuARDS HAVE IT
 
 # Vistani Camp
-- Missing Vistani Girl, with his own girl, Brown Hair Hazel Eyes Arabell
+- Missing Vistani Girl, with his own girl, Brown Hair Hazel Eyes Arabell, who is a relative of Madam Eva
 - Bluto the Fisherman was going to sacrifice her to bring about new fish
 
 #
