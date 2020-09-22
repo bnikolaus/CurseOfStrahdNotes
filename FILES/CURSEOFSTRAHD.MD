@@ -339,7 +339,19 @@ Stone of Morgatha
 # Watcher House
 - Kid is locked in a cat cage.
 - Bookreading
+- Trick her to sign a copy of your inscribed Words, Cast Illusionary Script, to trick her to sign a note
 - 
+
+'''
+My Dark Lord,
+
+Your plan to rid you of Baron Vargas of Vallakovich is in play and I thank you for for the jewlry box and its contents. The Vistani spy's you have sent have been most useful and I have enstrusted them with the poisons needed to ensure Vallaki remains yours. My sons and I remain your most loyal and Humbel Servants.
+
+Your Darkest Servant,
+
+'''
+
+
 
 # Blinksy
 - Find the Secret Toy in strahds castle
