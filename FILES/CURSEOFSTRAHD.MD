@@ -338,4 +338,5 @@ Stone of Morgatha
 
 # Vistani Camp
 - Missing Vistani Girl, with his own girl, Brown Hair Hazel Eyes Arabell
+- Fisherman was going to sacrifice her
 
