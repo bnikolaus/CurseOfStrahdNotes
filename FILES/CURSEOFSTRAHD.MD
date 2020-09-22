@@ -339,7 +339,8 @@ Stone of Morgatha
 # Vistani Camp
 - Missing Vistani Girl, with his own girl, Brown Hair Hazel Eyes Arabell, who is a relative of Madam Eva
 - Bluto the Fisherman was going to sacrifice her to bring about new fish
+- Arrugal is a bit of a prick, keeps staring at the SUN SWORD
+-
 
-#
+# The Mission
 - Heading to Catalina Wine Mixer
-
