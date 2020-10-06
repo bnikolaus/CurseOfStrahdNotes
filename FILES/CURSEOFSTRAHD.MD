@@ -353,13 +353,11 @@ Your Darkest Servant,
 
 
 # Ramses Flirts with Ireena
--
+- Yuck, she is obviously in love with me
+
 
 # Infiltrate Book Clube
 - Raven Alerts Alexandria
-
-# Blinksy
-- Find the Secret Toy in strahds castle
 
 # Vistani Camp
 - Missing Vistani Girl, with his own girl, Brown Hair Hazel Eyes Arabell, who is a relative of Madam Eva
@@ -369,3 +367,5 @@ Your Darkest Servant,
 
 # The Missions
 - Heading to Catalina Wine Mixer
+- Find the Secret Toy in strahds castle
+
