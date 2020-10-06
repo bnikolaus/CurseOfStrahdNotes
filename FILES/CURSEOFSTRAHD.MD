@@ -365,7 +365,8 @@ Your Darkest Servant,
 - Arrugal is a bit of a prick, keeps staring at the SUN SWORD
 - Obtained a awesome Horse and Vistani Carriage "Sandal the horse"
 
-# The Missions
+# Quests
 - Heading to Catalina Wine Mixer
 - Find the Secret Toy in strahds castle
+- Festival of Blazing Sun (Burning some things gift of fire) 
 
