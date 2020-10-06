@@ -367,5 +367,5 @@ Your Darkest Servant,
 - Arrugal is a bit of a prick, keeps staring at the SUN SWORD
 - Obtained a awesome Horse and Vistani Carriage "Sandal the horse"
 
-# The Mission
+# The Missions
 - Heading to Catalina Wine Mixer
