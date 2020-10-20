@@ -369,7 +369,7 @@ Your Darkest Servant,
 - Children carrying flowers, balls, suns, take turns oiling a sun
 - They cannot let the ball of fire 
 - Nikkey puts the Big mans pants on fire
-- 
+
 
 # Quests
 - Heading to Catalina Wine Mixer
