@@ -383,8 +383,13 @@ Your Darkest Servant,
 
 # Tooth Hunting 
 - Tree's rusting
-- 
--
+
+
+# Kresk
+- Abbey
+- Bat Lady brought back from Trauma
+- Cloven
+
 
 
 
