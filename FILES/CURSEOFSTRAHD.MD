@@ -1,5 +1,9 @@
 # CURSE OF STRAHD MONDAY NIGHTS
 
+Themes
+- Six Fingered woman 
+- 
+
 ### THE PARTY MOVEMENT ORDER;
 
 |PLAYER  |AKA           |SPECIALTY                                                                   |
